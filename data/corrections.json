@@ -1,0 +1,44 @@
+[
+  {
+    "mission": "Pioneer 3",
+    "field": "Launch",
+    "source_value": "Dec. 7, 1958",
+    "value": "1958-12-06"
+  },
+  {
+    "mission": "Luna E-3 No.2",
+    "field": "Launch",
+    "source_value": "April 16, 1960",
+    "value": "1960-04-19"
+  },
+  {
+    "mission": "Ranger 4",
+    "field": "Launch",
+    "source_value": "April 26, 1962",
+    "value": "1962-04-23"
+  },
+  {
+    "mission": "Ranger 5",
+    "field": "Launch",
+    "source_value": "Oct. 21, 1962",
+    "value": "1962-10-18"
+  },
+  {
+    "mission": "ARTEMIS probes",
+    "field": "Launch",
+    "source_value": "2010",
+    "value": "2007-02-17"
+  },
+  {
+    "mission": "Chang\u2019e 3",
+    "field": "Launch",
+    "source_value": "12/6/2013",
+    "value": "2013-12-01"
+  },
+  {
+    "mission": "Blue Ghost 1",
+    "field": "Launch",
+    "source_value": "02/15/2025",
+    "value": "2025-01-15"
+  }
+]

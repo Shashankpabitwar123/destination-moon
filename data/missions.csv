@@ -1,0 +1,1130 @@
+ID,Name,FullName,LaunchDate,LaunchDisplay,Year,Country,CountryFull,Operator,Status,MissionType,Headline,Purpose,Result,Summary,Highlight1,Highlight1Label,Highlight2,Highlight2Label,Milestone1Date,Milestone1Label,Milestone2Date,Milestone2Label,Milestone3Date,Milestone3Label,ReadURL,ReadingNote,SecondURL,SecondLabel,SourceURL,SourceOutcome,SourceLaunch,ReviewDate,ChronicleNumber,ChroniclePage,OperatingState,Order,RankAll,RankStatus,NameDisplay,YearCountry,Identity,TitleSize,TitleDisplay,HeadlineDisplay,SummaryDisplay,PurposeDisplay,ResultDisplay,Highlight1LabelDisplay,Highlight2LabelDisplay,Highlight1Size,Highlight1Display,Highlight2Size,Highlight2Display,Event1Date,Event1Label,Event2Date,Event2Label,Event3Date,Event3Label,Diagram,DiagramCaption,Tooltip
+M001,Pioneer 0,Pioneer 0,1958-08-17,17 August 1958,1958,USA,United States,US Air Force,Failed,Orbiter,First attempt at the Moon,Test a lunar orbiter and study the Moon and its environment.,The booster exploded shortly after liftoff. The spacecraft never reached the Moon.,The booster exploded shortly after liftoff. The spacecraft never reached the Moon.,Unavailable,encounter date in source,38 kg,spacecraft mass (source),1958-08-17,Launched,,No arrival recorded,,No later date in source,https://science.nasa.gov/mission/pioneer-0-able1/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful,"Aug. 17, 1958",2026-10-11,1,29,Not tracked; outcome is distinct from current operations,1,1,1,Pioneer 0,1958 · USA,United States · US Air Force,64,Pioneer 0,"First attempt at the
+Moon","The booster exploded shortly after liftoff.
+The spacecraft never reached the Moon.","Test a lunar orbiter and study the Moon and
+its environment.","The booster exploded shortly after liftoff. The
+spacecraft never reached the Moon.",encounter date in source,spacecraft mass (source),36,Unavailable,58,38 kg,17 Aug 1958,Launched,,,,,orbit,"Intended Orbiter · schematic, not to scale","Pioneer 0
+Failed · 17 August 1958
+United States
+Orbiter
+Click to explore this mission."
+M002,Luna E-1 No.1,Luna E-1 No.1,1958-09-23,23 September 1958,1958,USSR,Soviet Union,Soviet space programme,Failed,Impact,A launch cut short,Send an instrumented probe to strike the Moon.,Booster vibrations caused the rocket to break apart during ascent.,Booster vibrations caused the rocket to break apart during ascent.,Unavailable,encounter date in source,~360 kg,mass incl. upper stage,1958-09-23,Launched,,No arrival recorded,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=29,"NASA Deep Space Chronicle, PDF page 29; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful,"Sept. 23, 1958",2026-10-11,2,29,Not tracked; outcome is distinct from current operations,2,2,2,Luna E-1 No.1,1958 · USSR,Soviet Union · Soviet space programme,64,Luna E-1 No.1,A launch cut short,"Booster vibrations caused the rocket to
+break apart during ascent.","Send an instrumented probe to strike the
+Moon.","Booster vibrations caused the rocket to
+break apart during ascent.",encounter date in source,mass incl. upper stage,36,Unavailable,58,~360 kg,23 Sep 1958,Launched,,,,,impact,"Intended Impact · schematic, not to scale","Luna E-1 No.1
+Failed · 23 September 1958
+Soviet Union
+Impact
+Click to explore this mission."
+M003,Pioneer 1,Pioneer 1,1958-10-11,11 October 1958,1958,USA,United States,NASA,Failed,Orbiter,Science despite a setback,Orbit the Moon and study its environment.,"Insufficient launch speed prevented a lunar encounter, but the probe returned useful near-Earth data.","Insufficient launch speed prevented a lunar encounter, but the probe returned useful near-Earth data.",Unavailable,encounter date in source,38.3 kg,spacecraft mass (source),1958-10-11,Launched,,No arrival recorded,,No later date in source,https://science.nasa.gov/mission/pioneer-1-able-2/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful,"Oct. 11, 1958",2026-10-11,3,30,Not tracked; outcome is distinct from current operations,3,3,3,Pioneer 1,1958 · USA,United States · NASA,64,Pioneer 1,"Science despite a
+setback","Insufficient launch speed prevented a
+lunar encounter, but the probe returned
+useful near-Earth data.",Orbit the Moon and study its environment.,"Insufficient launch speed prevented a lunar
+encounter, but the probe returned useful
+near-Earth data.",encounter date in source,spacecraft mass (source),36,Unavailable,58,38.3 kg,11 Oct 1958,Launched,,,,,orbit,"Intended Orbiter · schematic, not to scale","Pioneer 1
+Failed · 11 October 1958
+United States
+Orbiter
+Click to explore this mission."
+M004,Luna E-1 No.2,Luna E-1 No.2,1958-10-11,11 October 1958,1958,USSR,Soviet Union,Soviet space programme,Failed,Impact,A second launch failure,Send a probe to the Moon for an intentional impact.,Resonant vibrations again destroyed the launch vehicle before it could leave Earth.,Resonant vibrations again destroyed the launch vehicle before it could leave Earth.,Unavailable,encounter date in source,~360 kg,mass incl. upper stage,1958-10-11,Launched,,No arrival recorded,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=30,"NASA Deep Space Chronicle, PDF page 30; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful,"Oct. 11, 1958",2026-10-11,4,30,Not tracked; outcome is distinct from current operations,4,4,4,Luna E-1 No.2,1958 · USSR,Soviet Union · Soviet space programme,64,Luna E-1 No.2,"A second launch
+failure","Resonant vibrations again destroyed the
+launch vehicle before it could leave
+Earth.","Send a probe to the Moon for an intentional
+impact.","Resonant vibrations again destroyed the
+launch vehicle before it could leave Earth.",encounter date in source,mass incl. upper stage,36,Unavailable,58,~360 kg,11 Oct 1958,Launched,,,,,impact,"Intended Impact · schematic, not to scale","Luna E-1 No.2
+Failed · 11 October 1958
+Soviet Union
+Impact
+Click to explore this mission."
+M005,Pioneer 2,Pioneer 2,1958-11-08,8 November 1958,1958,USA,United States,NASA,Failed,Orbiter,An engine failed to fire,Place a scientific probe in lunar orbit.,The upper-stage engine failed to ignite; the probe reentered Earth’s atmosphere.,The upper-stage engine failed to ignite; the probe reentered Earth’s atmosphere.,Unavailable,encounter date in source,39.6 kg,spacecraft mass (source),1958-11-08,Launched,,No arrival recorded,,No later date in source,https://science.nasa.gov/mission/pioneer-2/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful,"Nov. 8, 1958",2026-10-11,5,30,Not tracked; outcome is distinct from current operations,5,5,5,Pioneer 2,1958 · USA,United States · NASA,64,Pioneer 2,"An engine failed to
+fire","The upper-stage engine failed to ignite;
+the probe reentered Earth’s atmosphere.",Place a scientific probe in lunar orbit.,"The upper-stage engine failed to ignite; the
+probe reentered Earth’s atmosphere.",encounter date in source,spacecraft mass (source),36,Unavailable,58,39.6 kg,8 Nov 1958,Launched,,,,,orbit,"Intended Orbiter · schematic, not to scale","Pioneer 2
+Failed · 8 November 1958
+United States
+Orbiter
+Click to explore this mission."
+M006,Luna E-1 No.3,Luna E-1 No.3,1958-12-04,4 December 1958,1958,USSR,Soviet Union,Soviet space programme,Failed,Impact,Engine trouble on ascent,Reach the Moon with an instrumented impact probe.,A main-engine pump problem caused premature cutoff. The probe did not reach escape speed.,A main-engine pump problem caused premature cutoff. The probe did not reach escape speed.,Unavailable,encounter date in source,~360 kg,mass incl. upper stage,1958-12-04,Launched,,No arrival recorded,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=31,"NASA Deep Space Chronicle, PDF page 31; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful,"Dec. 4, 1958",2026-10-11,6,31,Not tracked; outcome is distinct from current operations,6,6,6,Luna E-1 No.3,1958 · USSR,Soviet Union · Soviet space programme,64,Luna E-1 No.3,"Engine trouble on
+ascent","A main-engine pump problem caused
+premature cutoff. The probe did not
+reach escape speed.","Reach the Moon with an instrumented impact
+probe.","A main-engine pump problem caused
+premature cutoff. The probe did not reach
+escape speed.",encounter date in source,mass incl. upper stage,36,Unavailable,58,~360 kg,4 Dec 1958,Launched,,,,,impact,"Intended Impact · schematic, not to scale","Luna E-1 No.3
+Failed · 4 December 1958
+Soviet Union
+Impact
+Click to explore this mission."
+M007,Pioneer 3,Pioneer 3,1958-12-06,6 December 1958,1958,USA,United States,NASA,Failed,Flyby,The Moon stayed out of reach,Fly past the Moon and measure radiation along the way.,An early engine cutoff left too little speed for a Moon flyby. Radiation measurements still helped reveal Earth’s radiation belts.,An early engine cutoff left too little speed for a Moon flyby. Radiation measurements still helped reveal Earth’s radiation belts.,Unavailable,encounter date in source,5.87 kg,spacecraft mass (source),1958-12-06,Launched,,No arrival recorded,,No later date in source,https://science.nasa.gov/mission/pioneer-3/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful,"Dec. 7, 1958",2026-10-11,7,31,Not tracked; outcome is distinct from current operations,7,7,7,Pioneer 3,1958 · USA,United States · NASA,64,Pioneer 3,"The Moon stayed
+out of reach","An early engine cutoff left too little speed
+for a Moon flyby. Radiation
+measurements still helped reveal Earth’s
+radiation belts.","Fly past the Moon and measure radiation
+along the way.","An early engine cutoff left too little speed for
+a Moon flyby. Radiation measurements still
+helped reveal Earth’s radiation belts.",encounter date in source,spacecraft mass (source),36,Unavailable,58,5.87 kg,6 Dec 1958,Launched,,,,,flyby,"Intended Flyby · schematic, not to scale","Pioneer 3
+Failed · 6 December 1958
+United States
+Flyby
+Click to explore this mission."
+M008,Luna 1,Luna 1,1959-01-02,2 January 1959,1959,USSR,Soviet Union,Soviet space programme,Partial,Impact,A miss became a first,Strike the Moon and measure particles and magnetic fields along the route.,Missed its intended impact but became the first spacecraft to pass the Moon and enter solar orbit.,Missed its intended impact but became the first spacecraft to pass the Moon and enter solar orbit.,2 days,between launch and event dates,361.3 kg,mass incl. upper stage,1959-01-02,Launched,1959-01-04,Lunar encounter,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=33,"NASA Deep Space Chronicle, PDF page 33; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Partial Success; first Moon flyby,"Jan. 2, 1959",2026-10-11,8,33,Not tracked; outcome is distinct from current operations,8,8,1,Luna 1,1959 · USSR,Soviet Union · Soviet space programme,64,Luna 1,"A miss became a
+first","Missed its intended impact but became
+the first spacecraft to pass the Moon and
+enter solar orbit.","Strike the Moon and measure particles and
+magnetic fields along the route.","Missed its intended impact but became the
+first spacecraft to pass the Moon and enter
+solar orbit.",between launch and event dates,mass incl. upper stage,58,2 days,58,361.3 kg,2 Jan 1959,Launched,4 Jan 1959,Lunar encounter,,,impact,"Impact · schematic, not to scale","Luna 1
+Partial · 2 January 1959
+Soviet Union
+Impact
+Click to explore this mission."
+M009,Pioneer 4,Pioneer 4,1959-03-03,3 March 1959,1959,USA,United States,NASA,Partial,Flyby,America reached deep space,Fly close to the Moon and test an optical sensor.,"Passed too far away to trigger the optical experiment, but returned radiation data and escaped Earth’s gravity.","Passed too far away to trigger the optical experiment, but returned radiation data and escaped Earth’s gravity.",1 day,between launch and event dates,6.1 kg,spacecraft mass (source),1959-03-03,Launched,1959-03-04,Lunar encounter,,No later date in source,https://science.nasa.gov/mission/pioneer-4/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Partial Success,"March 3, 1959",2026-10-11,9,34,Not tracked; outcome is distinct from current operations,9,9,2,Pioneer 4,1959 · USA,United States · NASA,64,Pioneer 4,"America reached
+deep space","Passed too far away to trigger the optical
+experiment, but returned radiation data
+and escaped Earth’s gravity.","Fly close to the Moon and test an optical
+sensor.","Passed too far away to trigger the optical
+experiment, but returned radiation data and
+escaped Earth’s gravity.",between launch and event dates,spacecraft mass (source),58,1 day,58,6.1 kg,3 Mar 1959,Launched,4 Mar 1959,Lunar encounter,,,flyby,"Flyby · schematic, not to scale","Pioneer 4
+Partial · 3 March 1959
+United States
+Flyby
+Click to explore this mission."
+M010,Luna E-1A,Luna E-1A,1959-06-18,18 June 1959,1959,USSR,Soviet Union,Soviet space programme,Failed,Impact,Guidance failure,Reach the lunar surface with an impact probe.,A guidance gyroscope failed during ascent; the wayward launch vehicle was destroyed by ground command.,A guidance gyroscope failed during ascent; the wayward launch vehicle was destroyed by ground command.,Unavailable,encounter date in source,~390 kg,mass incl. upper stage,1959-06-18,Launched,,No arrival recorded,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=34,"NASA Deep Space Chronicle, PDF page 34; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful,"June 18, 1959",2026-10-11,10,34,Not tracked; outcome is distinct from current operations,10,10,8,Luna E-1A,1959 · USSR,Soviet Union · Soviet space programme,64,Luna E-1A,Guidance failure,"A guidance gyroscope failed during
+ascent; the wayward launch vehicle was
+destroyed by ground command.","Reach the lunar surface with an impact
+probe.","A guidance gyroscope failed during ascent;
+the wayward launch vehicle was destroyed
+by ground command.",encounter date in source,mass incl. upper stage,36,Unavailable,58,~390 kg,18 Jun 1959,Launched,,,,,impact,"Intended Impact · schematic, not to scale","Luna E-1A
+Failed · 18 June 1959
+Soviet Union
+Impact
+Click to explore this mission."
+M011,Luna 2,Luna 2,1959-09-12,12 September 1959,1959,USSR,Soviet Union,Soviet space programme,Successful,Impact,First contact with the Moon,Strike the Moon and investigate the space environment.,Became the first human-made object to reach another celestial body. Its impact was intentional.,Became the first human-made object to reach another celestial body. Its impact was intentional.,First,human-made object on the Moon,390.2 kg,mass incl. upper stage,1959-09-12,Launched,1959-09-13,Lunar encounter,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=35,"NASA Deep Space Chronicle, PDF page 35; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful; first spacecraft to impact the Moon's surface,"Sept. 12, 1959",2026-10-11,11,35,Not tracked; outcome is distinct from current operations,11,11,1,Luna 2,1959 · USSR,Soviet Union · Soviet space programme,64,Luna 2,"First contact with
+the Moon","Became the first human-made object to
+reach another celestial body. Its impact
+was intentional.","Strike the Moon and investigate the space
+environment.","Became the first human-made object to
+reach another celestial body. Its impact was
+intentional.",human-made object on the Moon,mass incl. upper stage,58,First,58,390.2 kg,12 Sep 1959,Launched,13 Sep 1959,Lunar encounter,,,impact,"Impact · schematic, not to scale","Luna 2
+Successful · 12 September 1959
+Soviet Union
+Impact
+Click to explore this mission."
+M013,Luna 3,Luna 3,1959-10-04,4 October 1959,1959,USSR,Soviet Union,Soviet space programme,Successful,Flyby,First views of the far side,Photograph the side of the Moon hidden from Earth.,"Returned the first far-side images, revealing previously unseen terrain.","Returned the first far-side images, revealing previously unseen terrain.",29,photographs taken,~70%,of the far side photographed,1959-10-04,Launched,1959-10-06,Moon flyby,1959-10-07,Photos taken,https://www.nasa.gov/history/60-years-ago-luna-2-makes-impact-in-moon-race/,Mission history in English; NASA / agency source,https://science.nasa.gov/resource/first-close-up-of-the-far-side-of-moon/,View original image ↗,https://science.nasa.gov/moon/missions/,Successful; first pictures of the lunar farside.,"Oct. 4, 1959",2026-10-11,12,35,Not tracked; outcome is distinct from current operations,12,12,2,Luna 3,1959 · USSR,Soviet Union · Soviet space programme,64,Luna 3,"First views of the
+far side","Returned the first far-side images,
+revealing previously unseen terrain.","Photograph the side of the Moon hidden from
+Earth.","Returned the first far-side images, revealing
+previously unseen terrain.",photographs taken,of the far side photographed,58,29,58,~70%,4 Oct 1959,Launched,6 Oct 1959,Moon flyby,7 Oct 1959,Photos taken,flyby,"Flyby · schematic, not to scale","Luna 3
+Successful · 4 October 1959
+Soviet Union
+Flyby
+Click to explore this mission."
+M014,Pioneer P-3,Pioneer P-3,1959-11-26,26 November 1959,1959,USA,United States,NASA,Failed,Orbiter,Lost during launch,"Orbit the Moon and study radiation, magnetic fields and the lunar surface.","The protective nose fairing broke apart during ascent, destroying the payload.","The protective nose fairing broke apart during ascent, destroying the payload.",Unavailable,encounter date in source,169 kg,spacecraft mass (source),1959-11-26,Launched,,No arrival recorded,,No later date in source,https://science.nasa.gov/mission/pioneer-p-3-able-4b/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful,"Nov. 26, 1959",2026-10-11,13,35,Not tracked; outcome is distinct from current operations,13,13,9,Pioneer P-3,1959 · USA,United States · NASA,64,Pioneer P-3,Lost during launch,"The protective nose fairing broke apart
+during ascent, destroying the payload.","Orbit the Moon and study radiation, magnetic
+fields and the lunar surface.","The protective nose fairing broke apart
+during ascent, destroying the payload.",encounter date in source,spacecraft mass (source),36,Unavailable,58,169 kg,26 Nov 1959,Launched,,,,,orbit,"Intended Orbiter · schematic, not to scale","Pioneer P-3
+Failed · 26 November 1959
+United States
+Orbiter
+Click to explore this mission."
+M015,Luna E-3 No.1,Luna E-3 No.1,1960-04-15,15 April 1960,1960,USSR,Soviet Union,Soviet space programme,Failed,Flyby,Too little speed,Return more detailed photographs of the Moon’s far side.,Premature upper-stage cutoff left insufficient speed. The spacecraft fell back toward Earth.,Premature upper-stage cutoff left insufficient speed. The spacecraft fell back toward Earth.,Unavailable,encounter date in source,Robotic,mission crew type,1960-04-15,Launched,,No arrival recorded,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=37,"NASA Deep Space Chronicle, PDF page 37; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful,"April 15, 1960",2026-10-11,15,37,Not tracked; outcome is distinct from current operations,14,14,10,Luna E-3 No.1,1960 · USSR,Soviet Union · Soviet space programme,64,Luna E-3 No.1,Too little speed,"Premature upper-stage cutoff left
+insufficient speed. The spacecraft fell
+back toward Earth.","Return more detailed photographs of the
+Moon’s far side.","Premature upper-stage cutoff left insufficient
+speed. The spacecraft fell back toward
+Earth.",encounter date in source,mission crew type,36,Unavailable,58,Robotic,15 Apr 1960,Launched,,,,,flyby,"Intended Flyby · schematic, not to scale","Luna E-3 No.1
+Failed · 15 April 1960
+Soviet Union
+Flyby
+Click to explore this mission."
+M016,Luna E-3 No.2,Luna E-3 No.2,1960-04-19,19 April 1960,1960,USSR,Soviet Union,Soviet space programme,Failed,Flyby,Lost near the launch site,Photograph the Moon’s far side with an improved probe.,The launch vehicle broke apart seconds after liftoff.,The launch vehicle broke apart seconds after liftoff.,Unavailable,encounter date in source,Robotic,mission crew type,1960-04-19,Launched,,No arrival recorded,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=38,"NASA Deep Space Chronicle, PDF page 38; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful,"April 16, 1960",2026-10-11,16,38,Not tracked; outcome is distinct from current operations,15,15,11,Luna E-3 No.2,1960 · USSR,Soviet Union · Soviet space programme,64,Luna E-3 No.2,"Lost near the
+launch site","The launch vehicle broke apart seconds
+after liftoff.","Photograph the Moon’s far side with an
+improved probe.","The launch vehicle broke apart seconds after
+liftoff.",encounter date in source,mission crew type,36,Unavailable,58,Robotic,19 Apr 1960,Launched,,,,,flyby,"Intended Flyby · schematic, not to scale","Luna E-3 No.2
+Failed · 19 April 1960
+Soviet Union
+Flyby
+Click to explore this mission."
+M017,Pioneer P-30,Pioneer P-30,1960-09-25,25 September 1960,1960,USA,United States,NASA,Failed,Orbiter,An orbiter lost on ascent,Orbit the Moon and measure its environment.,The second stage shut down early and the third stage did not fire. The probe reentered Earth’s atmosphere.,The second stage shut down early and the third stage did not fire. The probe reentered Earth’s atmosphere.,Unavailable,encounter date in source,175.5 kg,spacecraft mass (source),1960-09-25,Launched,,No arrival recorded,,No later date in source,https://science.nasa.gov/mission/pioneer-p-30-able-5a/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful,"Sep. 25, 1960",2026-10-11,17,38,Not tracked; outcome is distinct from current operations,16,16,12,Pioneer P-30,1960 · USA,United States · NASA,64,Pioneer P-30,"An orbiter lost on
+ascent","The second stage shut down early and
+the third stage did not fire. The probe
+reentered Earth’s atmosphere.",Orbit the Moon and measure its environment.,"The second stage shut down early and the
+third stage did not fire. The probe reentered
+Earth’s atmosphere.",encounter date in source,spacecraft mass (source),36,Unavailable,58,175.5 kg,25 Sep 1960,Launched,,,,,orbit,"Intended Orbiter · schematic, not to scale","Pioneer P-30
+Failed · 25 September 1960
+United States
+Orbiter
+Click to explore this mission."
+M018,Pioneer P-31,Pioneer P-31,1960-12-15,15 December 1960,1960,USA,United States,NASA,Failed,Orbiter,The final early Pioneer attempt,Enter lunar orbit to study radiation and magnetic fields.,The Atlas-Able booster exploded during ascent; the planned lunar orbit was never reached.,The Atlas-Able booster exploded during ascent; the planned lunar orbit was never reached.,Unavailable,encounter date in source,176 kg,spacecraft mass (source),1960-12-15,Launched,,No arrival recorded,,No later date in source,https://science.nasa.gov/mission/pioneer-p-31-able-5b/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful,Dec. 15. 1960,2026-10-11,20,39,Not tracked; outcome is distinct from current operations,17,17,13,Pioneer P-31,1960 · USA,United States · NASA,64,Pioneer P-31,"The final early
+Pioneer attempt","The Atlas-Able booster exploded during
+ascent; the planned lunar orbit was
+never reached.","Enter lunar orbit to study radiation and
+magnetic fields.","The Atlas-Able booster exploded during
+ascent; the planned lunar orbit was never
+reached.",encounter date in source,spacecraft mass (source),36,Unavailable,58,176 kg,15 Dec 1960,Launched,,,,,orbit,"Intended Orbiter · schematic, not to scale","Pioneer P-31
+Failed · 15 December 1960
+United States
+Orbiter
+Click to explore this mission."
+M019,Ranger 3,Ranger 3,1962-01-26,26 January 1962,1962,USA,United States,NASA,Failed,Impact,A missed encounter,Photograph the Moon during descent and deliver an instrument capsule.,Guidance and control failures sent it past the Moon. It returned no lunar pictures.,Guidance and control failures sent it past the Moon. It returned no lunar pictures.,Unavailable,encounter date in source,330 kg,spacecraft mass (source),1962-01-26,Launched,,No arrival recorded,,No later date in source,https://science.nasa.gov/mission/ranger-3/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful,"Jan. 26, 1962",2026-10-11,25,45,Not tracked; outcome is distinct from current operations,18,18,14,Ranger 3,1962 · USA,United States · NASA,64,Ranger 3,A missed encounter,"Guidance and control failures sent it past
+the Moon. It returned no lunar pictures.","Photograph the Moon during descent and
+deliver an instrument capsule.","Guidance and control failures sent it past the
+Moon. It returned no lunar pictures.",encounter date in source,spacecraft mass (source),36,Unavailable,58,330 kg,26 Jan 1962,Launched,,,,,impact,"Intended Impact · schematic, not to scale","Ranger 3
+Failed · 26 January 1962
+United States
+Impact
+Click to explore this mission."
+M020,Ranger 4,Ranger 4,1962-04-23,23 April 1962,1962,USA,United States,NASA,Failed,Impact,"Reached the Moon, but silent",Take descent photographs and deliver a seismometer capsule.,A computer power failure prevented planned operations. It struck the far side without returning the intended science.,A computer power failure prevented planned operations. It struck the far side without returning the intended science.,3 days,between launch and event dates,331.12 kg,spacecraft mass (source),1962-04-23,Launched,1962-04-26,Lunar encounter,,No later date in source,https://science.nasa.gov/mission/ranger-4/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful,"April 26, 1962",2026-10-11,26,45,Not tracked; outcome is distinct from current operations,19,19,15,Ranger 4,1962 · USA,United States · NASA,64,Ranger 4,"Reached the Moon,
+but silent","A computer power failure prevented
+planned operations. It struck the far side
+without returning the intended science.","Take descent photographs and deliver a
+seismometer capsule.","A computer power failure prevented planned
+operations. It struck the far side without
+returning the intended science.",between launch and event dates,spacecraft mass (source),58,3 days,36,331.12 kg,23 Apr 1962,Launched,26 Apr 1962,Lunar encounter,,,impact,"Intended Impact · schematic, not to scale","Ranger 4
+Failed · 23 April 1962
+United States
+Impact
+Click to explore this mission."
+M021,Ranger 5,Ranger 5,1962-10-18,18 October 1962,1962,USA,United States,NASA,Failed,Impact,Power lost on the way,Photograph the lunar surface and deliver instruments.,An electrical malfunction exhausted battery power. The unresponsive spacecraft passed the Moon.,An electrical malfunction exhausted battery power. The unresponsive spacecraft passed the Moon.,3 days,between launch and event dates,342.46 kg,spacecraft mass (source),1962-10-18,Launched,1962-10-21,Lunar encounter,,No later date in source,https://science.nasa.gov/mission/ranger-5/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful,"Oct. 21, 1962",2026-10-11,32,47,Not tracked; outcome is distinct from current operations,20,20,16,Ranger 5,1962 · USA,United States · NASA,64,Ranger 5,"Power lost on the
+way","An electrical malfunction exhausted
+battery power. The unresponsive
+spacecraft passed the Moon.","Photograph the lunar surface and deliver
+instruments.","An electrical malfunction exhausted battery
+power. The unresponsive spacecraft passed
+the Moon.",between launch and event dates,spacecraft mass (source),58,3 days,36,342.46 kg,18 Oct 1962,Launched,21 Oct 1962,Lunar encounter,,,impact,"Intended Impact · schematic, not to scale","Ranger 5
+Failed · 18 October 1962
+United States
+Impact
+Click to explore this mission."
+M022,Luna E-6 No.2,Luna E-6 No.2,1963-01-04,4 January 1963,1963,USSR,Soviet Union,Soviet space programme,Failed,Lander,Stranded in Earth orbit,Soft-land a camera capsule on the Moon.,The upper stage did not perform the burn needed to leave Earth orbit.,The upper stage did not perform the burn needed to leave Earth orbit.,Unavailable,encounter date in source,"1,420 kg",spacecraft mass (source),1963-01-04,Launched,,No arrival recorded,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=51,"NASA Deep Space Chronicle, PDF page 51; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful,"Jan. 4, 1963",2026-10-11,36,51,Not tracked; outcome is distinct from current operations,21,21,17,Luna E-6 No.2,1963 · USSR,Soviet Union · Soviet space programme,64,Luna E-6 No.2,"Stranded in Earth
+orbit","The upper stage did not perform the
+burn needed to leave Earth orbit.",Soft-land a camera capsule on the Moon.,"The upper stage did not perform the burn
+needed to leave Earth orbit.",encounter date in source,spacecraft mass (source),36,Unavailable,58,"1,420 kg",4 Jan 1963,Launched,,,,,land,"Intended Lander · schematic, not to scale","Luna E-6 No.2
+Failed · 4 January 1963
+Soviet Union
+Lander
+Click to explore this mission."
+M023,Luna E-6 No.3,Luna E-6 No.3,1963-02-03,3 February 1963,1963,USSR,Soviet Union,Soviet space programme,Failed,Lander,Guidance lost during ascent,Soft-land and photograph the lunar surface.,A guidance problem caused loss of control during launch; the probe did not reach Earth orbit.,A guidance problem caused loss of control during launch; the probe did not reach Earth orbit.,Unavailable,encounter date in source,"1,420 kg",spacecraft mass (source),1963-02-03,Launched,,No arrival recorded,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=51,"NASA Deep Space Chronicle, PDF page 51; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful,"Feb. 3, 1963",2026-10-11,37,51,Not tracked; outcome is distinct from current operations,22,22,18,Luna E-6 No.3,1963 · USSR,Soviet Union · Soviet space programme,64,Luna E-6 No.3,"Guidance lost
+during ascent","A guidance problem caused loss of
+control during launch; the probe did not
+reach Earth orbit.",Soft-land and photograph the lunar surface.,"A guidance problem caused loss of control
+during launch; the probe did not reach Earth
+orbit.",encounter date in source,spacecraft mass (source),36,Unavailable,58,"1,420 kg",3 Feb 1963,Launched,,,,,land,"Intended Lander · schematic, not to scale","Luna E-6 No.3
+Failed · 3 February 1963
+Soviet Union
+Lander
+Click to explore this mission."
+M024,Luna 4,Luna 4,1963-04-02,2 April 1963,1963,USSR,Soviet Union,Soviet space programme,Failed,Lander,A landing attempt flew past,Demonstrate a soft landing and send pictures from the surface.,"An attitude-control failure prevented the planned course correction, so the spacecraft missed the Moon.","An attitude-control failure prevented the planned course correction, so the spacecraft missed the Moon.",4 days,between launch and event dates,"1,422 kg",spacecraft mass (source),1963-04-02,Launched,1963-04-06,Lunar encounter,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=52,"NASA Deep Space Chronicle, PDF page 52; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful; flew past Moon.,"April 2, 1963",2026-10-11,38,52,Not tracked; outcome is distinct from current operations,23,23,19,Luna 4,1963 · USSR,Soviet Union · Soviet space programme,64,Luna 4,"A landing attempt
+flew past","An attitude-control failure prevented the
+planned course correction, so the
+spacecraft missed the Moon.","Demonstrate a soft landing and send pictures
+from the surface.","An attitude-control failure prevented the
+planned course correction, so the spacecraft
+missed the Moon.",between launch and event dates,spacecraft mass (source),58,4 days,58,"1,422 kg",2 Apr 1963,Launched,6 Apr 1963,Lunar encounter,,,land,"Intended Lander · schematic, not to scale","Luna 4
+Failed · 2 April 1963
+Soviet Union
+Lander
+Click to explore this mission."
+M025,Ranger 6,Ranger 6,1964-01-30,30 January 1964,1964,USA,United States,NASA,Failed,Impact,"On target, without pictures",Return close-up photographs before an intentional lunar impact.,"Reached its target, but a short circuit disabled the camera system and no pictures were returned.","Reached its target, but a short circuit disabled the camera system and no pictures were returned.",3 days,between launch and event dates,364.69 kg,spacecraft mass (source),1964-01-30,Launched,1964-02-02,Lunar encounter,,No later date in source,https://science.nasa.gov/mission/ranger-6/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful,"Jan. 30, 1964",2026-10-11,40,53,Not tracked; outcome is distinct from current operations,24,24,20,Ranger 6,1964 · USA,United States · NASA,64,Ranger 6,"On target, without
+pictures","Reached its target, but a short circuit
+disabled the camera system and no
+pictures were returned.","Return close-up photographs before an
+intentional lunar impact.","Reached its target, but a short circuit
+disabled the camera system and no pictures
+were returned.",between launch and event dates,spacecraft mass (source),58,3 days,36,364.69 kg,30 Jan 1964,Launched,2 Feb 1964,Lunar encounter,,,impact,"Intended Impact · schematic, not to scale","Ranger 6
+Failed · 30 January 1964
+United States
+Impact
+Click to explore this mission."
+M026,Luna E-6 No.6,Luna E-6 No.6,1964-03-21,21 March 1964,1964,USSR,Soviet Union,Soviet space programme,Failed,Lander,A valve blocked the mission,Land a camera capsule on the lunar surface.,A broken valve mechanism prevented the third-stage engine from reaching full thrust.,A broken valve mechanism prevented the third-stage engine from reaching full thrust.,Unavailable,encounter date in source,"~1,420 kg",spacecraft mass (source),1964-03-21,Launched,,No arrival recorded,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=54,"NASA Deep Space Chronicle, PDF page 54; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful,"March 21, 1964",2026-10-11,42,54,Not tracked; outcome is distinct from current operations,25,25,21,Luna E-6 No.6,1964 · USSR,Soviet Union · Soviet space programme,64,Luna E-6 No.6,"A valve blocked the
+mission","A broken valve mechanism prevented
+the third-stage engine from reaching full
+thrust.",Land a camera capsule on the lunar surface.,"A broken valve mechanism prevented the
+third-stage engine from reaching full thrust.",encounter date in source,spacecraft mass (source),36,Unavailable,36,"~1,420 kg",21 Mar 1964,Launched,,,,,land,"Intended Lander · schematic, not to scale","Luna E-6 No.6
+Failed · 21 March 1964
+Soviet Union
+Lander
+Click to explore this mission."
+M027,Luna E-6 No.5,Luna E-6 No.5,1964-04-20,20 April 1964,1964,USSR,Soviet Union,Soviet space programme,Failed,Lander,Power lost during launch,Demonstrate a soft landing on the Moon.,An electrical-circuit failure shut down the third-stage engine prematurely.,An electrical-circuit failure shut down the third-stage engine prematurely.,Unavailable,encounter date in source,"~1,420 kg",spacecraft mass (source),1964-04-20,Launched,,No arrival recorded,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=55,"NASA Deep Space Chronicle, PDF page 55; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful,"April 20, 1964",2026-10-11,45,55,Not tracked; outcome is distinct from current operations,26,26,22,Luna E-6 No.5,1964 · USSR,Soviet Union · Soviet space programme,64,Luna E-6 No.5,"Power lost during
+launch","An electrical-circuit failure shut down the
+third-stage engine prematurely.",Demonstrate a soft landing on the Moon.,"An electrical-circuit failure shut down the
+third-stage engine prematurely.",encounter date in source,spacecraft mass (source),36,Unavailable,36,"~1,420 kg",20 Apr 1964,Launched,,,,,land,"Intended Lander · schematic, not to scale","Luna E-6 No.5
+Failed · 20 April 1964
+Soviet Union
+Lander
+Click to explore this mission."
+M028,Ranger 7,Ranger 7,1964-07-28,28 July 1964,1964,USA,United States,NASA,Successful,Impact,The Moon in close-up,Photograph the lunar surface before a planned impact.,"Returned thousands of close-up images, helping planners assess the lunar surface.","Returned thousands of close-up images, helping planners assess the lunar surface.",3 days,between launch and event dates,"4,308",photographs returned,1964-07-28,Launched,1964-07-31,Lunar encounter,,No later date in source,https://science.nasa.gov/mission/ranger-7/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful; first U.S. close-up pictures of the Moon,"July 28, 1964",2026-10-11,46,55,Not tracked; outcome is distinct from current operations,27,27,3,Ranger 7,1964 · USA,United States · NASA,64,Ranger 7,"The Moon in
+close-up","Returned thousands of close-up images,
+helping planners assess the lunar
+surface.","Photograph the lunar surface before a
+planned impact.","Returned thousands of close-up images,
+helping planners assess the lunar surface.",between launch and event dates,photographs returned,58,3 days,58,"4,308",28 Jul 1964,Launched,31 Jul 1964,Lunar encounter,,,impact,"Impact · schematic, not to scale","Ranger 7
+Successful · 28 July 1964
+United States
+Impact
+Click to explore this mission."
+M029,Ranger 8,Ranger 8,1965-02-17,17 February 1965,1965,USA,United States,NASA,Successful,Impact,Surveying future landing sites,Photograph the Moon during descent to an intentional impact.,"Returned more than 7,000 photographs near the Sea of Tranquility.","Returned more than 7,000 photographs near the Sea of Tranquility.",3 days,between launch and event dates,"7,137",photographs returned,1965-02-17,Launched,1965-02-20,Lunar encounter,,No later date in source,https://science.nasa.gov/mission/ranger-8/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful,"Feb. 17, 1965",2026-10-11,50,59,Not tracked; outcome is distinct from current operations,28,28,4,Ranger 8,1965 · USA,United States · NASA,64,Ranger 8,"Surveying future
+landing sites","Returned more than 7,000 photographs
+near the Sea of Tranquility.","Photograph the Moon during descent to an
+intentional impact.","Returned more than 7,000 photographs near
+the Sea of Tranquility.",between launch and event dates,photographs returned,58,3 days,58,"7,137",17 Feb 1965,Launched,20 Feb 1965,Lunar encounter,,,impact,"Impact · schematic, not to scale","Ranger 8
+Successful · 17 February 1965
+United States
+Impact
+Click to explore this mission."
+M030,Kosmos 60,Kosmos 60,1965-03-12,12 March 1965,1965,USSR,Soviet Union,Soviet space programme,Failed,Lander,A lunar probe stranded,Soft-land and send pictures from the surface.,A guidance-system electrical fault prevented the upper stage from sending the craft toward the Moon.,A guidance-system electrical fault prevented the upper stage from sending the craft toward the Moon.,Unavailable,encounter date in source,"~1,470 kg",spacecraft mass (source),1965-03-12,Launched,,No arrival recorded,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=60,"NASA Deep Space Chronicle, PDF page 60; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful,"March 12, 1965",2026-10-11,52,60,Not tracked; outcome is distinct from current operations,29,29,23,Kosmos 60,1965 · USSR,Soviet Union · Soviet space programme,64,Kosmos 60,"A lunar probe
+stranded","A guidance-system electrical fault
+prevented the upper stage from sending
+the craft toward the Moon.",Soft-land and send pictures from the surface.,"A guidance-system electrical fault prevented
+the upper stage from sending the craft
+toward the Moon.",encounter date in source,spacecraft mass (source),36,Unavailable,36,"~1,470 kg",12 Mar 1965,Launched,,,,,land,"Intended Lander · schematic, not to scale","Kosmos 60
+Failed · 12 March 1965
+Soviet Union
+Lander
+Click to explore this mission."
+M031,Ranger 9,Ranger 9,1965-03-21,21 March 1965,1965,USA,United States,NASA,Successful,Impact,A televised lunar approach,Photograph the Alphonsus crater region before impact.,Returned detailed descent images that were also broadcast to television audiences.,Returned detailed descent images that were also broadcast to television audiences.,3 days,between launch and event dates,"5,814",photographs returned,1965-03-21,Launched,1965-03-24,Lunar encounter,,No later date in source,https://science.nasa.gov/mission/ranger-9/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful,"March 21, 1965",2026-10-11,53,60,Not tracked; outcome is distinct from current operations,30,30,5,Ranger 9,1965 · USA,United States · NASA,64,Ranger 9,"A televised lunar
+approach","Returned detailed descent images that
+were also broadcast to television
+audiences.","Photograph the Alphonsus crater region
+before impact.","Returned detailed descent images that were
+also broadcast to television audiences.",between launch and event dates,photographs returned,58,3 days,58,"5,814",21 Mar 1965,Launched,24 Mar 1965,Lunar encounter,,,impact,"Impact · schematic, not to scale","Ranger 9
+Successful · 21 March 1965
+United States
+Impact
+Click to explore this mission."
+M032,Luna E-6 No.8,Luna E-6 No.8,1965-04-10,10 April 1965,1965,USSR,Soviet Union,Soviet space programme,Failed,Lander,The engine never ignited,Demonstrate a soft lunar landing.,Loss of pressure in a nitrogen line prevented third-stage ignition. The spacecraft never reached orbit.,Loss of pressure in a nitrogen line prevented third-stage ignition. The spacecraft never reached orbit.,Unavailable,encounter date in source,"~1,470 kg",spacecraft mass (source),1965-04-10,Launched,,No arrival recorded,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=60,"NASA Deep Space Chronicle, PDF page 60; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful,"April 10, 1965",2026-10-11,54,60,Not tracked; outcome is distinct from current operations,31,31,24,Luna E-6 No.8,1965 · USSR,Soviet Union · Soviet space programme,64,Luna E-6 No.8,"The engine never
+ignited","Loss of pressure in a nitrogen line
+prevented third-stage ignition. The
+spacecraft never reached orbit.",Demonstrate a soft lunar landing.,"Loss of pressure in a nitrogen line prevented
+third-stage ignition. The spacecraft never
+reached orbit.",encounter date in source,spacecraft mass (source),36,Unavailable,36,"~1,470 kg",10 Apr 1965,Launched,,,,,land,"Intended Lander · schematic, not to scale","Luna E-6 No.8
+Failed · 10 April 1965
+Soviet Union
+Lander
+Click to explore this mission."
+M033,Luna 5,Luna 5,1965-05-09,9 May 1965,1965,USSR,Soviet Union,Soviet space programme,Failed,Lander,A landing became a crash,Test a soft landing on the Moon.,Attitude-control and braking problems prevented a soft landing; the spacecraft struck the surface.,Attitude-control and braking problems prevented a soft landing; the spacecraft struck the surface.,3 days,between launch and event dates,"1,476 kg",spacecraft mass (source),1965-05-09,Launched,1965-05-12,Lunar encounter,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=60,"NASA Deep Space Chronicle, PDF page 60; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful; impacted Moon,"May 9, 1965",2026-10-11,55,60,Not tracked; outcome is distinct from current operations,32,32,25,Luna 5,1965 · USSR,Soviet Union · Soviet space programme,64,Luna 5,"A landing became a
+crash","Attitude-control and braking problems
+prevented a soft landing; the spacecraft
+struck the surface.",Test a soft landing on the Moon.,"Attitude-control and braking problems
+prevented a soft landing; the spacecraft
+struck the surface.",between launch and event dates,spacecraft mass (source),58,3 days,58,"1,476 kg",9 May 1965,Launched,12 May 1965,Lunar encounter,,,land,"Intended Lander · schematic, not to scale","Luna 5
+Failed · 9 May 1965
+Soviet Union
+Lander
+Click to explore this mission."
+M034,Luna 6,Luna 6,1965-06-08,8 June 1965,1965,USSR,Soviet Union,Soviet space programme,Failed,Lander,The engine kept firing,Demonstrate a soft lunar landing.,"A course-correction engine failed to shut down on time, sending the craft past the Moon.","A course-correction engine failed to shut down on time, sending the craft past the Moon.",3 days,between launch and event dates,"1,442 kg",spacecraft mass (source),1965-06-08,Launched,1965-06-11,Lunar encounter,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=61,"NASA Deep Space Chronicle, PDF page 61; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful; flyby,"June 8, 1965",2026-10-11,56,61,Not tracked; outcome is distinct from current operations,33,33,26,Luna 6,1965 · USSR,Soviet Union · Soviet space programme,64,Luna 6,"The engine kept
+firing","A course-correction engine failed to shut
+down on time, sending the craft past the
+Moon.",Demonstrate a soft lunar landing.,"A course-correction engine failed to shut
+down on time, sending the craft past the
+Moon.",between launch and event dates,spacecraft mass (source),58,3 days,58,"1,442 kg",8 Jun 1965,Launched,11 Jun 1965,Lunar encounter,,,land,"Intended Lander · schematic, not to scale","Luna 6
+Failed · 8 June 1965
+Soviet Union
+Lander
+Click to explore this mission."
+M035,Zond 3,Zond 3,1965-07-18,18 July 1965,1965,USSR,Soviet Union,Soviet space programme,Successful,Flyby,More of the hidden hemisphere,Photograph the far side and test deep-space spacecraft systems.,Returned photographs of additional far-side terrain and demonstrated deep-space communications.,Returned photographs of additional far-side terrain and demonstrated deep-space communications.,2 days,between launch and event dates,950 kg,spacecraft mass (source),1965-07-18,Launched,1965-07-20,Lunar encounter,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=61,"NASA Deep Space Chronicle, PDF page 61; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful,"July 18, 1965",2026-10-11,57,61,Not tracked; outcome is distinct from current operations,34,34,6,Zond 3,1965 · USSR,Soviet Union · Soviet space programme,64,Zond 3,"More of the hidden
+hemisphere","Returned photographs of additional
+far-side terrain and demonstrated
+deep-space communications.","Photograph the far side and test deep-space
+spacecraft systems.","Returned photographs of additional far-side
+terrain and demonstrated deep-space
+communications.",between launch and event dates,spacecraft mass (source),58,2 days,58,950 kg,18 Jul 1965,Launched,20 Jul 1965,Lunar encounter,,,flyby,"Flyby · schematic, not to scale","Zond 3
+Successful · 18 July 1965
+Soviet Union
+Flyby
+Click to explore this mission."
+M036,Luna 7,Luna 7,1965-10-04,4 October 1965,1965,USSR,Soviet Union,Soviet space programme,Failed,Lander,Braking never began,Soft-land a camera capsule on the lunar surface.,Lost attitude control before braking. Its main engine did not fire and the craft crashed.,Lost attitude control before braking. Its main engine did not fire and the craft crashed.,3 days,between launch and event dates,"1,506 kg",spacecraft mass (source),1965-10-04,Launched,1965-10-07,Lunar encounter,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=62,"NASA Deep Space Chronicle, PDF page 62; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful; impacted Moon,"Oct. 4, 1965",2026-10-11,59,62,Not tracked; outcome is distinct from current operations,35,35,27,Luna 7,1965 · USSR,Soviet Union · Soviet space programme,64,Luna 7,"Braking never
+began","Lost attitude control before braking. Its
+main engine did not fire and the craft
+crashed.","Soft-land a camera capsule on the lunar
+surface.","Lost attitude control before braking. Its main
+engine did not fire and the craft crashed.",between launch and event dates,spacecraft mass (source),58,3 days,58,"1,506 kg",4 Oct 1965,Launched,7 Oct 1965,Lunar encounter,,,land,"Intended Lander · schematic, not to scale","Luna 7
+Failed · 4 October 1965
+Soviet Union
+Lander
+Click to explore this mission."
+M037,Luna 8,Luna 8,1965-12-03,3 December 1965,1965,USSR,Soviet Union,Soviet space programme,Failed,Lander,An airbag upset the landing,Demonstrate a cushioned soft landing on the Moon.,An airbag problem upset the craft’s attitude. Inadequate braking led to a crash.,An airbag problem upset the craft’s attitude. Inadequate braking led to a crash.,3 days,between launch and event dates,"1,552 kg",spacecraft mass (source),1965-12-03,Launched,1965-12-06,Lunar encounter,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=63,"NASA Deep Space Chronicle, PDF page 63; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful; impacted Moon,"Dec. 3, 1965",2026-10-11,63,63,Not tracked; outcome is distinct from current operations,36,36,28,Luna 8,1965 · USSR,Soviet Union · Soviet space programme,64,Luna 8,"An airbag upset the
+landing","An airbag problem upset the craft’s
+attitude. Inadequate braking led to a
+crash.","Demonstrate a cushioned soft landing on the
+Moon.","An airbag problem upset the craft’s attitude.
+Inadequate braking led to a crash.",between launch and event dates,spacecraft mass (source),58,3 days,58,"1,552 kg",3 Dec 1965,Launched,6 Dec 1965,Lunar encounter,,,land,"Intended Lander · schematic, not to scale","Luna 8
+Failed · 3 December 1965
+Soviet Union
+Lander
+Click to explore this mission."
+M038,Luna 9,Luna 9,1966-01-31,31 January 1966,1966,USSR,Soviet Union,Soviet space programme,Successful,Lander,First soft landing,Land a camera capsule safely and photograph the lunar surface.,Achieved the first successful soft landing on the Moon and sent back surface panoramas.,Achieved the first successful soft landing on the Moon and sent back surface panoramas.,First,successful lunar soft landing,"1,538 kg",spacecraft mass (source),1966-01-31,Launched,1966-02-03,Lunar encounter,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=65,"NASA Deep Space Chronicle, PDF page 65; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful; first lunar soft landing and first picture from the lunar surface,"Jan. 31, 1966",2026-10-11,65,65,Not tracked; outcome is distinct from current operations,37,37,7,Luna 9,1966 · USSR,Soviet Union · Soviet space programme,64,Luna 9,First soft landing,"Achieved the first successful soft landing
+on the Moon and sent back surface
+panoramas.","Land a camera capsule safely and
+photograph the lunar surface.","Achieved the first successful soft landing on
+the Moon and sent back surface panoramas.",successful lunar soft landing,spacecraft mass (source),58,First,58,"1,538 kg",31 Jan 1966,Launched,3 Feb 1966,Lunar encounter,,,land,"Lander · schematic, not to scale","Luna 9
+Successful · 31 January 1966
+Soviet Union
+Lander
+Click to explore this mission."
+M039,Kosmos 111,Kosmos 111,1966-03-01,1 March 1966,1966,USSR,Soviet Union,Soviet space programme,Failed,Orbiter,An orbiter stayed near Earth,Enter lunar orbit and study the Moon.,The upper stage lost roll control and did not fire toward the Moon.,The upper stage lost roll control and did not fire toward the Moon.,Unavailable,encounter date in source,"~1,580 kg",spacecraft mass (source),1966-03-01,Launched,,No arrival recorded,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=65,"NASA Deep Space Chronicle, PDF page 65; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful,"March 1, 1966",2026-10-11,66,65,Not tracked; outcome is distinct from current operations,38,38,29,Kosmos 111,1966 · USSR,Soviet Union · Soviet space programme,64,Kosmos 111,"An orbiter stayed
+near Earth","The upper stage lost roll control and did
+not fire toward the Moon.",Enter lunar orbit and study the Moon.,"The upper stage lost roll control and did not
+fire toward the Moon.",encounter date in source,spacecraft mass (source),36,Unavailable,36,"~1,580 kg",1 Mar 1966,Launched,,,,,orbit,"Intended Orbiter · schematic, not to scale","Kosmos 111
+Failed · 1 March 1966
+Soviet Union
+Orbiter
+Click to explore this mission."
+M040,Luna 10,Luna 10,1966-03-31,31 March 1966,1966,USSR,Soviet Union,Soviet space programme,Successful,Orbiter,First lunar orbiter,Enter orbit and study the Moon from above.,Became the first spacecraft to orbit the Moon.,Became the first spacecraft to orbit the Moon.,First,spacecraft in lunar orbit,"1,582 kg",spacecraft mass (source),1966-03-31,Launched,1966-04-03,Lunar encounter,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=66,"NASA Deep Space Chronicle, PDF page 66; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful; first lunar orbiter,"March 31, 1966",2026-10-11,67,66,Not tracked; outcome is distinct from current operations,39,39,8,Luna 10,1966 · USSR,Soviet Union · Soviet space programme,64,Luna 10,First lunar orbiter,"Became the first spacecraft to orbit the
+Moon.",Enter orbit and study the Moon from above.,"Became the first spacecraft to orbit the
+Moon.",spacecraft in lunar orbit,spacecraft mass (source),58,First,58,"1,582 kg",31 Mar 1966,Launched,3 Apr 1966,Lunar encounter,,,orbit,"Orbiter · schematic, not to scale","Luna 10
+Successful · 31 March 1966
+Soviet Union
+Orbiter
+Click to explore this mission."
+M041,Surveyor 1,Surveyor 1,1966-05-30,30 May 1966,1966,USA,United States,NASA,Successful,Lander,America’s first soft landing,Demonstrate landing technology and photograph the surface.,Landed successfully and returned surface images that supported planning for Apollo.,Landed successfully and returned surface images that supported planning for Apollo.,3 days,between launch and event dates,995.2 kg,spacecraft mass (source),1966-05-30,Launched,1966-06-02,Lunar encounter,,No later date in source,https://science.nasa.gov/mission/surveyor-1/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful; first U.S. Moon landing and first U.S. photo from the lunar surface .,"May 30, 1966",2026-10-11,69,67,Not tracked; outcome is distinct from current operations,40,40,9,Surveyor 1,1966 · USA,United States · NASA,64,Surveyor 1,"America’s first soft
+landing","Landed successfully and returned
+surface images that supported planning
+for Apollo.","Demonstrate landing technology and
+photograph the surface.","Landed successfully and returned surface
+images that supported planning for Apollo.",between launch and event dates,spacecraft mass (source),58,3 days,58,995.2 kg,30 May 1966,Launched,2 Jun 1966,Lunar encounter,,,land,"Lander · schematic, not to scale","Surveyor 1
+Successful · 30 May 1966
+United States
+Lander
+Click to explore this mission."
+M042,Lunar Orbiter 1,Lunar Orbi ter 1,1966-08-10,10 August 1966,1966,USA,United States,NASA,Successful,Orbiter,Surveying the Moon from orbit,Photograph the lunar surface for science and landing-site assessment.,Returned lunar photographs and achieved the mission’s core objectives.,Returned lunar photographs and achieved the mission’s core objectives.,4 days,between launch and event dates,385.6 kg,spacecraft mass (source),1966-08-10,Launched,1966-08-14,Lunar encounter,,No later date in source,https://science.nasa.gov/mission/lunar-orbiter-1/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful,"Aug. 10, 1966",2026-10-11,71,68,Not tracked; outcome is distinct from current operations,41,41,10,Lunar Orbiter 1,1966 · USA,United States · NASA,64,Lunar Orbiter 1,"Surveying the
+Moon from orbit","Returned lunar photographs and
+achieved the mission’s core objectives.","Photograph the lunar surface for science and
+landing-site assessment.","Returned lunar photographs and achieved
+the mission’s core objectives.",between launch and event dates,spacecraft mass (source),58,4 days,58,385.6 kg,10 Aug 1966,Launched,14 Aug 1966,Lunar encounter,,,orbit,"Orbiter · schematic, not to scale","Lunar Orbi ter 1
+Successful · 10 August 1966
+United States
+Orbiter
+Click to explore this mission."
+M043,Luna 11,Luna 11,1966-08-24,24 August 1966,1966,USSR,Soviet Union,Soviet space programme,Partial,Orbiter,Science without the pictures,Photograph the surface from lunar orbit and study the Moon’s environment.,"Entered orbit and returned scientific data, but an attitude-control problem prevented usable lunar images.","Entered orbit and returned scientific data, but an attitude-control problem prevented usable lunar images.",3 days,between launch and event dates,"1,640 kg",spacecraft mass (source),1966-08-24,Launched,1966-08-27,Lunar encounter,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=69,"NASA Deep Space Chronicle, PDF page 69; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful,"Aug. 24, 1966",2026-10-11,73,69,Not tracked; outcome is distinct from current operations,42,42,3,Luna 11,1966 · USSR,Soviet Union · Soviet space programme,64,Luna 11,"Science without the
+pictures","Entered orbit and returned scientific
+data, but an attitude-control problem
+prevented usable lunar images.","Photograph the surface from lunar orbit and
+study the Moon’s environment.","Entered orbit and returned scientific data, but
+an attitude-control problem prevented usable
+lunar images.",between launch and event dates,spacecraft mass (source),58,3 days,58,"1,640 kg",24 Aug 1966,Launched,27 Aug 1966,Lunar encounter,,,orbit,"Orbiter · schematic, not to scale","Luna 11
+Partial · 24 August 1966
+Soviet Union
+Orbiter
+Click to explore this mission."
+M044,Surveyor 2,Surveyor 2,1966-09-20,20 September 1966,1966,USA,United States,NASA,Failed,Lander,A failed thruster,Soft-land and study the lunar surface.,A thruster failed during a course correction. The spacecraft spun out of control and crashed.,A thruster failed during a course correction. The spacecraft spun out of control and crashed.,3 days,between launch and event dates,995.2 kg,spacecraft mass (source),1966-09-20,Launched,1966-09-23,Lunar encounter,,No later date in source,https://science.nasa.gov/mission/surveyor-2/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful; impacted Moon,"Sept. 20, 1966",2026-10-11,74,69,Not tracked; outcome is distinct from current operations,43,43,30,Surveyor 2,1966 · USA,United States · NASA,64,Surveyor 2,A failed thruster,"A thruster failed during a course
+correction. The spacecraft spun out of
+control and crashed.",Soft-land and study the lunar surface.,"A thruster failed during a course correction.
+The spacecraft spun out of control and
+crashed.",between launch and event dates,spacecraft mass (source),58,3 days,58,995.2 kg,20 Sep 1966,Launched,23 Sep 1966,Lunar encounter,,,land,"Intended Lander · schematic, not to scale","Surveyor 2
+Failed · 20 September 1966
+United States
+Lander
+Click to explore this mission."
+M045,Luna 12,Luna 12,1966-10-22,22 October 1966,1966,USSR,Soviet Union,Soviet space programme,Successful,Orbiter,Photographs from lunar orbit,Return detailed photographs of the lunar surface.,"Entered lunar orbit and returned surface images, completing the imaging task missed by Luna 11.","Entered lunar orbit and returned surface images, completing the imaging task missed by Luna 11.",3 days,between launch and event dates,"1,620 kg",spacecraft mass (source),1966-10-22,Launched,1966-10-25,Lunar encounter,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=70,"NASA Deep Space Chronicle, PDF page 70; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful,"Oct. 22, 1966",2026-10-11,75,70,Not tracked; outcome is distinct from current operations,44,44,11,Luna 12,1966 · USSR,Soviet Union · Soviet space programme,64,Luna 12,"Photographs from
+lunar orbit","Entered lunar orbit and returned surface
+images, completing the imaging task
+missed by Luna 11.","Return detailed photographs of the lunar
+surface.","Entered lunar orbit and returned surface
+images, completing the imaging task missed
+by Luna 11.",between launch and event dates,spacecraft mass (source),58,3 days,58,"1,620 kg",22 Oct 1966,Launched,25 Oct 1966,Lunar encounter,,,orbit,"Orbiter · schematic, not to scale","Luna 12
+Successful · 22 October 1966
+Soviet Union
+Orbiter
+Click to explore this mission."
+M046,Lunar Orbiter 2,Lunar Orbiter 2,1966-11-06,6 November 1966,1966,USA,United States,NASA,Successful,Orbiter,Surveying the Moon from orbit,Photograph the lunar surface for science and landing-site assessment.,Returned lunar photographs and achieved the mission’s core objectives.,Returned lunar photographs and achieved the mission’s core objectives.,4 days,between launch and event dates,385.6 kg,spacecraft mass (source),1966-11-06,Launched,1966-11-10,Lunar encounter,,No later date in source,https://science.nasa.gov/mission/lunar-orbiter-2/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful,"Nov. 6, 1966",2026-10-11,76,70,Not tracked; outcome is distinct from current operations,45,45,12,Lunar Orbiter 2,1966 · USA,United States · NASA,64,Lunar Orbiter 2,"Surveying the
+Moon from orbit","Returned lunar photographs and
+achieved the mission’s core objectives.","Photograph the lunar surface for science and
+landing-site assessment.","Returned lunar photographs and achieved
+the mission’s core objectives.",between launch and event dates,spacecraft mass (source),58,4 days,58,385.6 kg,6 Nov 1966,Launched,10 Nov 1966,Lunar encounter,,,orbit,"Orbiter · schematic, not to scale","Lunar Orbiter 2
+Successful · 6 November 1966
+United States
+Orbiter
+Click to explore this mission."
+M047,Luna 13,Luna 13,1966-12-21,21 December 1966,1966,USSR,Soviet Union,Soviet space programme,Successful,Lander,Testing the lunar soil,Land instruments to study soil and photograph the surface.,Returned surface panoramas and measurements of soil properties after a successful landing.,Returned surface panoramas and measurements of soil properties after a successful landing.,3 days,between launch and event dates,"1,620 kg",spacecraft mass (source),1966-12-21,Launched,1966-12-24,Lunar encounter,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=70,"NASA Deep Space Chronicle, PDF page 70; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful,"Dec. 21, 1966",2026-10-11,77,70,Not tracked; outcome is distinct from current operations,46,46,13,Luna 13,1966 · USSR,Soviet Union · Soviet space programme,64,Luna 13,"Testing the lunar
+soil","Returned surface panoramas and
+measurements of soil properties after a
+successful landing.","Land instruments to study soil and
+photograph the surface.","Returned surface panoramas and
+measurements of soil properties after a
+successful landing.",between launch and event dates,spacecraft mass (source),58,3 days,58,"1,620 kg",21 Dec 1966,Launched,24 Dec 1966,Lunar encounter,,,land,"Lander · schematic, not to scale","Luna 13
+Successful · 21 December 1966
+Soviet Union
+Lander
+Click to explore this mission."
+M048,Lunar Orbiter 3,Lunar Orbiter 3,1967-02-05,5 February 1967,1967,USA,United States,NASA,Successful,Orbiter,Surveying the Moon from orbit,Photograph the lunar surface for science and landing-site assessment.,Returned lunar photographs and achieved the mission’s core objectives.,Returned lunar photographs and achieved the mission’s core objectives.,3 days,between launch and event dates,385.6 kg,spacecraft mass (source),1967-02-05,Launched,1967-02-08,Lunar encounter,,No later date in source,https://science.nasa.gov/mission/lunar-orbiter-3/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Partial success; camera failure,"Feb. 5, 1967",2026-10-11,78,73,Not tracked; outcome is distinct from current operations,47,47,14,Lunar Orbiter 3,1967 · USA,United States · NASA,64,Lunar Orbiter 3,"Surveying the
+Moon from orbit","Returned lunar photographs and
+achieved the mission’s core objectives.","Photograph the lunar surface for science and
+landing-site assessment.","Returned lunar photographs and achieved
+the mission’s core objectives.",between launch and event dates,spacecraft mass (source),58,3 days,58,385.6 kg,5 Feb 1967,Launched,8 Feb 1967,Lunar encounter,,,orbit,"Orbiter · schematic, not to scale","Lunar Orbiter 3
+Successful · 5 February 1967
+United States
+Orbiter
+Click to explore this mission."
+M049,Surveyor 3,Surveyor 3,1967-04-17,17 April 1967,1967,USA,United States,NASA,Successful,Lander,Testing the ground for Apollo,Study surface properties and test soil with a sampling tool.,Its successful surface tests helped assess whether lunar soil could support an Apollo lander.,Its successful surface tests helped assess whether lunar soil could support an Apollo lander.,3 days,between launch and event dates,997.9 kg,spacecraft mass (source),1967-04-17,Launched,1967-04-20,Lunar encounter,,No later date in source,https://science.nasa.gov/mission/surveyor-3/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful; visited on the Moon by Apollo 12 crew .,"April 17, 1967",2026-10-11,79,73,Not tracked; outcome is distinct from current operations,48,48,15,Surveyor 3,1967 · USA,United States · NASA,64,Surveyor 3,"Testing the ground
+for Apollo","Its successful surface tests helped
+assess whether lunar soil could support
+an Apollo lander.","Study surface properties and test soil with a
+sampling tool.","Its successful surface tests helped assess
+whether lunar soil could support an Apollo
+lander.",between launch and event dates,spacecraft mass (source),58,3 days,58,997.9 kg,17 Apr 1967,Launched,20 Apr 1967,Lunar encounter,,,land,"Lander · schematic, not to scale","Surveyor 3
+Successful · 17 April 1967
+United States
+Lander
+Click to explore this mission."
+M050,Lunar Orbiter 4,Lunar Orbiter 4,1967-05-04,4 May 1967,1967,USA,United States,NASA,Successful,Orbiter,Surveying the Moon from orbit,Photograph the lunar surface for science and landing-site assessment.,Returned lunar photographs and achieved the mission’s core objectives.,Returned lunar photographs and achieved the mission’s core objectives.,4 days,between launch and event dates,385.6 kg,spacecraft mass (source),1967-05-04,Launched,1967-05-08,Lunar encounter,,No later date in source,https://science.nasa.gov/mission/lunar-orbiter-4/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Partial success; camera failure,"May 4, 1967",2026-10-11,80,75,Not tracked; outcome is distinct from current operations,49,49,16,Lunar Orbiter 4,1967 · USA,United States · NASA,64,Lunar Orbiter 4,"Surveying the
+Moon from orbit","Returned lunar photographs and
+achieved the mission’s core objectives.","Photograph the lunar surface for science and
+landing-site assessment.","Returned lunar photographs and achieved
+the mission’s core objectives.",between launch and event dates,spacecraft mass (source),58,4 days,58,385.6 kg,4 May 1967,Launched,8 May 1967,Lunar encounter,,,orbit,"Orbiter · schematic, not to scale","Lunar Orbiter 4
+Successful · 4 May 1967
+United States
+Orbiter
+Click to explore this mission."
+M051,Surveyor 4,Surveyor 4,1967-07-14,14 July 1967,1967,USA,United States,NASA,Failed,Lander,Contact lost before touchdown,Soft-land and investigate lunar soil.,Radio contact stopped just before the planned landing and was never restored.,Radio contact stopped just before the planned landing and was never restored.,3 days,between launch and event dates,"1,037.4 kg",spacecraft mass (source),1967-07-14,Launched,1967-07-17,Lunar encounter,,No later date in source,https://science.nasa.gov/mission/surveyor-4/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful,"July 14, 1967",2026-10-11,85,77,Not tracked; outcome is distinct from current operations,50,50,31,Surveyor 4,1967 · USA,United States · NASA,64,Surveyor 4,"Contact lost before
+touchdown","Radio contact stopped just before the
+planned landing and was never
+restored.",Soft-land and investigate lunar soil.,"Radio contact stopped just before the
+planned landing and was never restored.",between launch and event dates,spacecraft mass (source),58,3 days,36,"1,037.4 kg",14 Jul 1967,Launched,17 Jul 1967,Lunar encounter,,,land,"Intended Lander · schematic, not to scale","Surveyor 4
+Failed · 14 July 1967
+United States
+Lander
+Click to explore this mission."
+M052,Lunar Orbiter 5,Lunar Orbiter 5,1967-08-01,1 August 1967,1967,USA,United States,NASA,Successful,Orbiter,Surveying the Moon from orbit,Photograph the lunar surface for science and landing-site assessment.,Returned lunar photographs and achieved the mission’s core objectives.,Returned lunar photographs and achieved the mission’s core objectives.,4 days,between launch and event dates,385.6 kg,spacecraft mass (source),1967-08-01,Launched,1967-08-05,Lunar encounter,,No later date in source,https://science.nasa.gov/mission/lunar-orbiter-5/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful,"Aug. 1, 1967",2026-10-11,87,78,Not tracked; outcome is distinct from current operations,51,51,17,Lunar Orbiter 5,1967 · USA,United States · NASA,64,Lunar Orbiter 5,"Surveying the
+Moon from orbit","Returned lunar photographs and
+achieved the mission’s core objectives.","Photograph the lunar surface for science and
+landing-site assessment.","Returned lunar photographs and achieved
+the mission’s core objectives.",between launch and event dates,spacecraft mass (source),58,4 days,58,385.6 kg,1 Aug 1967,Launched,5 Aug 1967,Lunar encounter,,,orbit,"Orbiter · schematic, not to scale","Lunar Orbiter 5
+Successful · 1 August 1967
+United States
+Orbiter
+Click to explore this mission."
+M053,Surveyor 5,Surveyor 5,1967-09-08,8 September 1967,1967,USA,United States,NASA,Successful,Lander,Chemistry on another world,Analyze lunar soil and photograph the surface.,Survived a propulsion leak and performed the first in-place chemical analysis of lunar soil.,Survived a propulsion leak and performed the first in-place chemical analysis of lunar soil.,3 days,between launch and event dates,"1,006 kg",spacecraft mass (source),1967-09-08,Launched,1967-09-11,Lunar encounter,,No later date in source,https://science.nasa.gov/mission/surveyor-5/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful,"Sept. 8, 1967",2026-10-11,88,79,Not tracked; outcome is distinct from current operations,52,52,18,Surveyor 5,1967 · USA,United States · NASA,64,Surveyor 5,"Chemistry on
+another world","Survived a propulsion leak and
+performed the first in-place chemical
+analysis of lunar soil.","Analyze lunar soil and photograph the
+surface.","Survived a propulsion leak and performed
+the first in-place chemical analysis of lunar
+soil.",between launch and event dates,spacecraft mass (source),58,3 days,58,"1,006 kg",8 Sep 1967,Launched,11 Sep 1967,Lunar encounter,,,land,"Lander · schematic, not to scale","Surveyor 5
+Successful · 8 September 1967
+United States
+Lander
+Click to explore this mission."
+M054,Surveyor 6,Surveyor 6,1967-11-07,7 November 1967,1967,USA,United States,NASA,Successful,Lander,A small hop on the Moon,Study the surface and demonstrate lander operations.,"Landed, returned images and briefly lifted off again to demonstrate a short surface hop.","Landed, returned images and briefly lifted off again to demonstrate a short surface hop.",3 days,between launch and event dates,"1,008.3 kg",spacecraft mass (source),1967-11-07,Launched,1967-11-10,Lunar encounter,,No later date in source,https://science.nasa.gov/mission/surveyor-6/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful,"Nov. 7, 1967",2026-10-11,90,79,Not tracked; outcome is distinct from current operations,53,53,19,Surveyor 6,1967 · USA,United States · NASA,64,Surveyor 6,"A small hop on the
+Moon","Landed, returned images and briefly
+lifted off again to demonstrate a short
+surface hop.","Study the surface and demonstrate lander
+operations.","Landed, returned images and briefly lifted off
+again to demonstrate a short surface hop.",between launch and event dates,spacecraft mass (source),58,3 days,36,"1,008.3 kg",7 Nov 1967,Launched,10 Nov 1967,Lunar encounter,,,land,"Lander · schematic, not to scale","Surveyor 6
+Successful · 7 November 1967
+United States
+Lander
+Click to explore this mission."
+M055,Surveyor 7,Surveyor 7,1968-01-07,7 January 1968,1968,USA,United States,NASA,Successful,Lander,Exploring the highlands,Investigate lunar highland soil and surface conditions.,"Completed surface observations in highland terrain, extending the Surveyor science programme.","Completed surface observations in highland terrain, extending the Surveyor science programme.",3 days,between launch and event dates,"1,040.1 kg",spacecraft mass (source),1968-01-07,Launched,1968-01-10,Lunar encounter,,No later date in source,https://science.nasa.gov/mission/surveyor-7/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful,"Jan. 7, 1968",2026-10-11,93,81,Not tracked; outcome is distinct from current operations,54,54,20,Surveyor 7,1968 · USA,United States · NASA,64,Surveyor 7,"Exploring the
+highlands","Completed surface observations in
+highland terrain, extending the Surveyor
+science programme.","Investigate lunar highland soil and surface
+conditions.","Completed surface observations in highland
+terrain, extending the Surveyor science
+programme.",between launch and event dates,spacecraft mass (source),58,3 days,36,"1,040.1 kg",7 Jan 1968,Launched,10 Jan 1968,Lunar encounter,,,land,"Lander · schematic, not to scale","Surveyor 7
+Successful · 7 January 1968
+United States
+Lander
+Click to explore this mission."
+M056,Luna E-6LS No.112,Luna E-6LS No.112,1968-02-07,7 February 1968,1968,USSR,Soviet Union,Soviet space programme,Failed,Orbiter,Communications test lost,Test lunar communications for future crewed missions.,Premature third-stage cutoff prevented the spacecraft from reaching Earth orbit.,Premature third-stage cutoff prevented the spacecraft from reaching Earth orbit.,Unavailable,encounter date in source,Robotic,mission crew type,1968-02-07,Launched,,No arrival recorded,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=81,"NASA Deep Space Chronicle, PDF page 81; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful,"Feb. 7, 1968",2026-10-11,94,81,Not tracked; outcome is distinct from current operations,55,55,32,"Luna E-6LS
+No.112",1968 · USSR,Soviet Union · Soviet space programme,36,Luna E-6LS No.112,"Communications
+test lost","Premature third-stage cutoff prevented
+the spacecraft from reaching Earth orbit.","Test lunar communications for future crewed
+missions.","Premature third-stage cutoff prevented the
+spacecraft from reaching Earth orbit.",encounter date in source,mission crew type,36,Unavailable,58,Robotic,7 Feb 1968,Launched,,,,,orbit,"Intended Orbiter · schematic, not to scale","Luna E-6LS No.112
+Failed · 7 February 1968
+Soviet Union
+Orbiter
+Click to explore this mission."
+M057,Luna 14,Luna 14,1968-04-07,7 April 1968,1968,USSR,Soviet Union,Soviet space programme,Successful,Orbiter,Preparing future lunar flights,Test lunar communications and track gravitational effects on spacecraft motion.,"Entered lunar orbit and supported communications, gravity and particle investigations.","Entered lunar orbit and supported communications, gravity and particle investigations.",3 days,between launch and event dates,Robotic,mission crew type,1968-04-07,Launched,1968-04-10,Lunar encounter,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=82,"NASA Deep Space Chronicle, PDF page 82; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful,"April 7, 1968",2026-10-11,96,82,Not tracked; outcome is distinct from current operations,56,56,21,Luna 14,1968 · USSR,Soviet Union · Soviet space programme,64,Luna 14,"Preparing future
+lunar flights","Entered lunar orbit and supported
+communications, gravity and particle
+investigations.","Test lunar communications and track
+gravitational effects on spacecraft motion.","Entered lunar orbit and supported
+communications, gravity and particle
+investigations.",between launch and event dates,mission crew type,58,3 days,58,Robotic,7 Apr 1968,Launched,10 Apr 1968,Lunar encounter,,,orbit,"Orbiter · schematic, not to scale","Luna 14
+Successful · 7 April 1968
+Soviet Union
+Orbiter
+Click to explore this mission."
+M058,Zond 5,Zond 5,1968-09-15,15 September 1968,1968,USSR,Soviet Union,Soviet space programme,Successful,Flyby,Life around the Moon,Test a circumlunar flight and Earth return with biological specimens.,Carried living organisms around the Moon and recovered them on Earth.,Carried living organisms around the Moon and recovered them on Earth.,3 days,between launch and event dates,"~5,375 kg",spacecraft mass (source),1968-09-15,Launched,1968-09-18,Lunar encounter,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=82,"NASA Deep Space Chronicle, PDF page 82; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful; first living creatures to fly past the Moon,"Sept. 15, 1968",2026-10-11,98,82,Not tracked; outcome is distinct from current operations,57,57,22,Zond 5,1968 · USSR,Soviet Union · Soviet space programme,64,Zond 5,"Life around the
+Moon","Carried living organisms around the
+Moon and recovered them on Earth.","Test a circumlunar flight and Earth return
+with biological specimens.","Carried living organisms around the Moon
+and recovered them on Earth.",between launch and event dates,spacecraft mass (source),58,3 days,36,"~5,375 kg",15 Sep 1968,Launched,18 Sep 1968,Lunar encounter,,,flyby,"Flyby · schematic, not to scale","Zond 5
+Successful · 15 September 1968
+Soviet Union
+Flyby
+Click to explore this mission."
+M059,Zond 6,Zond 6,1968-11-10,10 November 1968,1968,USSR,Soviet Union,Soviet space programme,Partial,Flyby,The return was not survivable,Test a circumlunar flight and recover biological specimens.,"Flew around the Moon, but depressurization and a landing failure prevented recovery of living cargo.","Flew around the Moon, but depressurization and a landing failure prevented recovery of living cargo.",4 days,between launch and event dates,"~5,375 kg",spacecraft mass (source),1968-11-10,Launched,1968-11-14,Lunar encounter,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=83,"NASA Deep Space Chronicle, PDF page 83; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Partial success; animal cargo lost on landing.,"Nov. 10, 1968",2026-10-11,100,83,Not tracked; outcome is distinct from current operations,58,58,4,Zond 6,1968 · USSR,Soviet Union · Soviet space programme,64,Zond 6,"The return was not
+survivable","Flew around the Moon, but
+depressurization and a landing failure
+prevented recovery of living cargo.","Test a circumlunar flight and recover
+biological specimens.","Flew around the Moon, but depressurization
+and a landing failure prevented recovery of
+living cargo.",between launch and event dates,spacecraft mass (source),58,4 days,36,"~5,375 kg",10 Nov 1968,Launched,14 Nov 1968,Lunar encounter,,,flyby,"Flyby · schematic, not to scale","Zond 6
+Partial · 10 November 1968
+Soviet Union
+Flyby
+Click to explore this mission."
+M060,Apollo 8,Apollo 8,1968-12-21,21 December 1968,1968,USA,United States,NASA,Successful,Crewed orbiter,First people in lunar orbit,Test crewed lunar flight and orbit the Moon.,Three astronauts became the first people to orbit the Moon and returned safely.,Three astronauts became the first people to orbit the Moon and returned safely.,3 days,between launch and event dates,3,astronauts aboard,1968-12-21,Launched,1968-12-24,Entered lunar orbit,,No later date in source,https://www.nasa.gov/mission/apollo-8/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Success; first humans to orbit the Moon,"Dec. 21, 1968",2026-10-11,0,0,Not tracked; outcome is distinct from current operations,59,59,23,Apollo 8,1968 · USA,United States · NASA,64,Apollo 8,"First people in
+lunar orbit","Three astronauts became the first
+people to orbit the Moon and returned
+safely.",Test crewed lunar flight and orbit the Moon.,"Three astronauts became the first people to
+orbit the Moon and returned safely.",between launch and event dates,astronauts aboard,58,3 days,58,3,21 Dec 1968,Launched,24 Dec 1968,Entered lunar orbit,,,orbit,"Crewed orbiter · schematic, not to scale","Apollo 8
+Successful · 21 December 1968
+United States
+Crewed orbiter
+Click to explore this mission."
+M061,Luna E-8 No.201,Luna E-8 No.201,1969-02-19,19 February 1969,1969,USSR,Soviet Union,Soviet space programme,Failed,Rover,A rover lost before arrival,Deliver a mobile rover to explore the lunar surface.,The payload shroud failed during ascent; the rover and launch vehicle were lost.,The payload shroud failed during ascent; the rover and launch vehicle were lost.,Unavailable,encounter date in source,"~5,700 kg",spacecraft mass (source),1969-02-19,Launched,,No arrival recorded,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=86,"NASA Deep Space Chronicle, PDF page 86; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful; first attempted Moon rover,"Feb. 19, 1969",2026-10-11,104,86,Not tracked; outcome is distinct from current operations,60,60,33,"Luna E-8
+No.201",1969 · USSR,Soviet Union · Soviet space programme,64,Luna E-8 No.201,"A rover lost before
+arrival","The payload shroud failed during
+ascent; the rover and launch vehicle
+were lost.","Deliver a mobile rover to explore the lunar
+surface.","The payload shroud failed during ascent; the
+rover and launch vehicle were lost.",encounter date in source,spacecraft mass (source),36,Unavailable,36,"~5,700 kg",19 Feb 1969,Launched,,,,,land,"Intended Rover · schematic, not to scale","Luna E-8 No.201
+Failed · 19 February 1969
+Soviet Union
+Rover
+Click to explore this mission."
+M062,Apollo 10,Apollo 10,1969-05-18,18 May 1969,1969,USA,United States,NASA,Successful,Crewed orbiter,A rehearsal for landing,Rehearse lunar landing operations without touching down.,Tested the lunar module close to the surface and returned the crew safely.,Tested the lunar module close to the surface and returned the crew safely.,3 days,between launch and event dates,3,astronauts aboard,1969-05-18,Launched,1969-05-21,Entered lunar orbit,,No later date in source,https://www.nasa.gov/mission/apollo-10/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful; lander test in lunar orbit,"May 18, 1969",2026-10-11,0,0,Not tracked; outcome is distinct from current operations,61,61,24,Apollo 10,1969 · USA,United States · NASA,64,Apollo 10,"A rehearsal for
+landing","Tested the lunar module close to the
+surface and returned the crew safely.","Rehearse lunar landing operations without
+touching down.","Tested the lunar module close to the surface
+and returned the crew safely.",between launch and event dates,astronauts aboard,58,3 days,58,3,18 May 1969,Launched,21 May 1969,Entered lunar orbit,,,orbit,"Crewed orbiter · schematic, not to scale","Apollo 10
+Successful · 18 May 1969
+United States
+Crewed orbiter
+Click to explore this mission."
+M063,Luna E-8-5 No.402,Luna E-8-5 No.402,1969-06-14,14 June 1969,1969,USSR,Soviet Union,Soviet space programme,Failed,Sample Return,A sample mission never began,Collect lunar soil and return it automatically to Earth.,A guidance-circuit problem prevented the upper stage from firing. The craft did not reach Earth orbit.,A guidance-circuit problem prevented the upper stage from firing. The craft did not reach Earth orbit.,Unavailable,encounter date in source,"~5,700 kg",spacecraft mass (source),1969-06-14,Launched,,No arrival recorded,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=89,"NASA Deep Space Chronicle, PDF page 89; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful,"June 14, 1969",2026-10-11,110,89,Not tracked; outcome is distinct from current operations,62,62,34,"Luna E-8-5
+No.402",1969 · USSR,Soviet Union · Soviet space programme,36,Luna E-8-5 No.402,"A sample mission
+never began","A guidance-circuit problem prevented
+the upper stage from firing. The craft did
+not reach Earth orbit.","Collect lunar soil and return it automatically
+to Earth.","A guidance-circuit problem prevented the
+upper stage from firing. The craft did not
+reach Earth orbit.",encounter date in source,spacecraft mass (source),36,Unavailable,36,"~5,700 kg",14 Jun 1969,Launched,,,,,return,"Intended Sample Return · schematic, not to scale","Luna E-8-5 No.402
+Failed · 14 June 1969
+Soviet Union
+Sample Return
+Click to explore this mission."
+M064,Luna 15,Luna 15,1969-07-13,13 July 1969,1969,USSR,Soviet Union,Soviet space programme,Partial,Orbiter/Sample Return,Orbit achieved; samples lost,Collect lunar soil and return it to Earth.,Reached lunar orbit but crashed during descent. No samples returned.,Reached lunar orbit but crashed during descent. No samples returned.,4 days,between launch and event dates,"5,700 kg",spacecraft mass (source),1969-07-13,Launched,1969-07-17,Entered lunar orbit,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=90,"NASA Deep Space Chronicle, PDF page 90; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,"Partial success; orbiter successful, sample return crashed on the Moon","July 13, 1969",2026-10-11,112,90,Not tracked; outcome is distinct from current operations,63,63,5,Luna 15,1969 · USSR,Soviet Union · Soviet space programme,64,Luna 15,"Orbit achieved;
+samples lost","Reached lunar orbit but crashed during
+descent. No samples returned.",Collect lunar soil and return it to Earth.,"Reached lunar orbit but crashed during
+descent. No samples returned.",between launch and event dates,spacecraft mass (source),58,4 days,58,"5,700 kg",13 Jul 1969,Launched,17 Jul 1969,Entered lunar orbit,,,return,"Orbiter/Sample Return · schematic, not to scale","Luna 15
+Partial · 13 July 1969
+Soviet Union
+Orbiter/Sample Return
+Click to explore this mission."
+M065,Apollo 11,Apollo 11,1969-07-16,16 July 1969,1969,USA,United States,NASA,Successful,Crewed landing,First footsteps on the Moon,"Explore the lunar surface, deploy experiments and return samples.","Astronauts landed, conducted surface science and returned safely to Earth.","Astronauts landed, conducted surface science and returned safely to Earth.",4 days,between launch and event dates,3,astronauts aboard,1969-07-16,Launched,1969-07-20,Moon landing,,No later date in source,https://www.nasa.gov/mission/apollo-11/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful; first humans to land on the Moon,"July 16, 1969",2026-10-11,0,0,Not tracked; outcome is distinct from current operations,64,64,25,Apollo 11,1969 · USA,United States · NASA,64,Apollo 11,"First footsteps on
+the Moon","Astronauts landed, conducted surface
+science and returned safely to Earth.","Explore the lunar surface, deploy
+experiments and return samples.","Astronauts landed, conducted surface
+science and returned safely to Earth.",between launch and event dates,astronauts aboard,58,4 days,58,3,16 Jul 1969,Launched,20 Jul 1969,Moon landing,,,land,"Crewed landing · schematic, not to scale","Apollo 11
+Successful · 16 July 1969
+United States
+Crewed landing
+Click to explore this mission."
+M066,Zond 7,Zond 7,1969-08-07,7 August 1969,1969,USSR,Soviet Union,Soviet space programme,Successful,Flyby,A successful return rehearsal,"Test a circumlunar flight, imaging and guided Earth return.","Flew around the Moon, photographed Earth and Moon, and returned its capsule safely.","Flew around the Moon, photographed Earth and Moon, and returned its capsule safely.",4 days,between launch and event dates,"~5,375 kg",spacecraft mass (source),1969-08-07,Launched,1969-08-11,Lunar encounter,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=90,"NASA Deep Space Chronicle, PDF page 90; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful,"Aug. 7, 1969",2026-10-11,113,90,Not tracked; outcome is distinct from current operations,65,65,26,Zond 7,1969 · USSR,Soviet Union · Soviet space programme,64,Zond 7,"A successful return
+rehearsal","Flew around the Moon, photographed
+Earth and Moon, and returned its
+capsule safely.","Test a circumlunar flight, imaging and guided
+Earth return.","Flew around the Moon, photographed Earth
+and Moon, and returned its capsule safely.",between launch and event dates,spacecraft mass (source),58,4 days,36,"~5,375 kg",7 Aug 1969,Launched,11 Aug 1969,Lunar encounter,,,flyby,"Flyby · schematic, not to scale","Zond 7
+Successful · 7 August 1969
+Soviet Union
+Flyby
+Click to explore this mission."
+M067,Kosmos 300,Kosmos 300,1969-09-23,23 September 1969,1969,USSR,Soviet Union,Soviet space programme,Failed,Sample Return,Samples remained out of reach,Collect lunar soil and return it to Earth.,An upper-stage fuel-valve problem prevented the departure burn from Earth orbit.,An upper-stage fuel-valve problem prevented the departure burn from Earth orbit.,Unavailable,encounter date in source,"~5,700 kg",spacecraft mass (source),1969-09-23,Launched,,No arrival recorded,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=91,"NASA Deep Space Chronicle, PDF page 91; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful,"Sept. 23, 1969",2026-10-11,115,91,Not tracked; outcome is distinct from current operations,66,66,35,Kosmos 300,1969 · USSR,Soviet Union · Soviet space programme,64,Kosmos 300,"Samples remained
+out of reach","An upper-stage fuel-valve problem
+prevented the departure burn from Earth
+orbit.",Collect lunar soil and return it to Earth.,"An upper-stage fuel-valve problem prevented
+the departure burn from Earth orbit.",encounter date in source,spacecraft mass (source),36,Unavailable,36,"~5,700 kg",23 Sep 1969,Launched,,,,,return,"Intended Sample Return · schematic, not to scale","Kosmos 300
+Failed · 23 September 1969
+Soviet Union
+Sample Return
+Click to explore this mission."
+M068,Kosmos 305,Kosmos 305,1969-10-22,22 October 1969,1969,USSR,Soviet Union,Soviet space programme,Failed,Sample Return,Unable to leave Earth orbit,Return a robotic sample of lunar soil.,The upper stage failed to execute the departure sequence; contact was lost and the spacecraft reentered.,The upper stage failed to execute the departure sequence; contact was lost and the spacecraft reentered.,Unavailable,encounter date in source,"~5,700 kg",spacecraft mass (source),1969-10-22,Launched,,No arrival recorded,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=91,"NASA Deep Space Chronicle, PDF page 91; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful,"Oct. 22, 1969",2026-10-11,116,91,Not tracked; outcome is distinct from current operations,67,67,36,Kosmos 305,1969 · USSR,Soviet Union · Soviet space programme,64,Kosmos 305,"Unable to leave
+Earth orbit","The upper stage failed to execute the
+departure sequence; contact was lost
+and the spacecraft reentered.",Return a robotic sample of lunar soil.,"The upper stage failed to execute the
+departure sequence; contact was lost and
+the spacecraft reentered.",encounter date in source,spacecraft mass (source),36,Unavailable,36,"~5,700 kg",22 Oct 1969,Launched,,,,,return,"Intended Sample Return · schematic, not to scale","Kosmos 305
+Failed · 22 October 1969
+Soviet Union
+Sample Return
+Click to explore this mission."
+M069,Apollo 12,Apollo 12,1969-11-14,14 November 1969,1969,USA,United States,NASA,Successful,Crewed landing,Exploring the lunar surface,"Explore the lunar surface, deploy experiments and return samples.","Astronauts landed, conducted surface science and returned safely to Earth.","Astronauts landed, conducted surface science and returned safely to Earth.",3 days,between launch and event dates,3,astronauts aboard,1969-11-14,Launched,1969-11-17,Entered lunar orbit,,No later date in source,https://www.nasa.gov/mission/apollo-12/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful; rendezvous with Surveyor 3 on the surface of the moon .,"Nov. 14, 1969",2026-10-11,0,0,Not tracked; outcome is distinct from current operations,68,68,27,Apollo 12,1969 · USA,United States · NASA,64,Apollo 12,"Exploring the lunar
+surface","Astronauts landed, conducted surface
+science and returned safely to Earth.","Explore the lunar surface, deploy
+experiments and return samples.","Astronauts landed, conducted surface
+science and returned safely to Earth.",between launch and event dates,astronauts aboard,58,3 days,58,3,14 Nov 1969,Launched,17 Nov 1969,Entered lunar orbit,,,land,"Crewed landing · schematic, not to scale","Apollo 12
+Successful · 14 November 1969
+United States
+Crewed landing
+Click to explore this mission."
+M071,Luna E-8-5 No.405,Luna E-8-5 No.405,1970-02-06,6 February 1970,1970,USSR,Soviet Union,Soviet space programme,Failed,Sample Return,An erroneous shutdown,Collect and return material from the lunar surface.,"An erroneous command shut down the second stage during ascent, ending the mission.","An erroneous command shut down the second stage during ascent, ending the mission.",Unavailable,encounter date in source,"~5,700 kg",spacecraft mass (source),1970-02-06,Launched,,No arrival recorded,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=93,"NASA Deep Space Chronicle, PDF page 93; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful,2/6/1970,2026-10-11,117,93,Not tracked; outcome is distinct from current operations,69,69,37,"Luna E-8-5
+No.405",1970 · USSR,Soviet Union · Soviet space programme,36,Luna E-8-5 No.405,"An erroneous
+shutdown","An erroneous command shut down the
+second stage during ascent, ending the
+mission.","Collect and return material from the lunar
+surface.","An erroneous command shut down the
+second stage during ascent, ending the
+mission.",encounter date in source,spacecraft mass (source),36,Unavailable,36,"~5,700 kg",6 Feb 1970,Launched,,,,,return,"Intended Sample Return · schematic, not to scale","Luna E-8-5 No.405
+Failed · 6 February 1970
+Soviet Union
+Sample Return
+Click to explore this mission."
+M070,Apollo 13,Apollo 13,1970-04-11,11 April 1970,1970,USA,United States,NASA,Failed,Crewed landing,A safe return after crisis,Land astronauts on the Moon and collect samples.,An oxygen-tank failure forced the landing to be cancelled. The crew returned safely.,An oxygen-tank failure forced the landing to be cancelled. The crew returned safely.,4 days,between launch and event dates,3,astronauts aboard,1970-04-11,Launched,1970-04-15,Lunar encounter,,No later date in source,https://www.nasa.gov/mission/apollo-13/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful; crew returned safely to Earth.,4/11/1970,2026-10-11,0,0,Not tracked; outcome is distinct from current operations,70,70,38,Apollo 13,1970 · USA,United States · NASA,64,Apollo 13,"A safe return after
+crisis","An oxygen-tank failure forced the
+landing to be cancelled. The crew
+returned safely.","Land astronauts on the Moon and collect
+samples.","An oxygen-tank failure forced the landing to
+be cancelled. The crew returned safely.",between launch and event dates,astronauts aboard,58,4 days,58,3,11 Apr 1970,Launched,15 Apr 1970,Lunar encounter,,,land,"Intended Crewed landing · schematic, not to scale","Apollo 13
+Failed · 11 April 1970
+United States
+Crewed landing
+Click to explore this mission."
+M072,Luna 16,Luna 16,1970-09-12,12 September 1970,1970,USSR,Soviet Union,Soviet space programme,Successful,Sample Return,Robotic samples returned,Collect lunar soil and return it automatically to Earth.,Completed the first robotic return of samples from the Moon.,Completed the first robotic return of samples from the Moon.,8 days,between launch and event dates,"5,727 kg",spacecraft mass (source),1970-09-12,Launched,1970-09-20,Lunar encounter,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=94,"NASA Deep Space Chronicle, PDF page 94; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful; first robotic sample return from beyond Earth.,9/12/1970,2026-10-11,120,94,Not tracked; outcome is distinct from current operations,71,71,28,Luna 16,1970 · USSR,Soviet Union · Soviet space programme,64,Luna 16,"Robotic samples
+returned","Completed the first robotic return of
+samples from the Moon.","Collect lunar soil and return it automatically
+to Earth.","Completed the first robotic return of samples
+from the Moon.",between launch and event dates,spacecraft mass (source),58,8 days,58,"5,727 kg",12 Sep 1970,Launched,20 Sep 1970,Lunar encounter,,,return,"Sample Return · schematic, not to scale","Luna 16
+Successful · 12 September 1970
+Soviet Union
+Sample Return
+Click to explore this mission."
+M073,Zond 8,Zond 8,1970-10-20,20 October 1970,1970,USSR,Soviet Union,Soviet space programme,Successful,Flyby,The final Zond lunar flight,Test a circumlunar journey and capsule recovery.,Photographed the Moon and returned its capsule to the Indian Ocean after a ballistic reentry.,Photographed the Moon and returned its capsule to the Indian Ocean after a ballistic reentry.,4 days,between launch and event dates,"~5,375 kg",spacecraft mass (source),1970-10-20,Launched,1970-10-24,Lunar encounter,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=95,"NASA Deep Space Chronicle, PDF page 95; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful,10/20/1970,2026-10-11,121,95,Not tracked; outcome is distinct from current operations,72,72,29,Zond 8,1970 · USSR,Soviet Union · Soviet space programme,64,Zond 8,"The final Zond
+lunar flight","Photographed the Moon and returned its
+capsule to the Indian Ocean after a
+ballistic reentry.","Test a circumlunar journey and capsule
+recovery.","Photographed the Moon and returned its
+capsule to the Indian Ocean after a ballistic
+reentry.",between launch and event dates,spacecraft mass (source),58,4 days,36,"~5,375 kg",20 Oct 1970,Launched,24 Oct 1970,Lunar encounter,,,flyby,"Flyby · schematic, not to scale","Zond 8
+Successful · 20 October 1970
+Soviet Union
+Flyby
+Click to explore this mission."
+M074,Luna 17,Luna 17,1970-11-10,10 November 1970,1970,USSR,Soviet Union,Soviet space programme,Successful,Lander,A rover explored the Moon,Deliver Lunokhod 1 to investigate the surface.,Landed successfully and deployed the Lunokhod 1 rover.,Landed successfully and deployed the Lunokhod 1 rover.,7 days,between launch and event dates,"5,700 kg",spacecraft mass (source),1970-11-10,Launched,1970-11-17,Lunar encounter,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=95,"NASA Deep Space Chronicle, PDF page 95; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful; delivered Lunokhod 1 rover to the surface of the Moon,11/10/1970,2026-10-11,122,95,Not tracked; outcome is distinct from current operations,73,73,30,Luna 17,1970 · USSR,Soviet Union · Soviet space programme,64,Luna 17,"A rover explored
+the Moon","Landed successfully and deployed the
+Lunokhod 1 rover.","Deliver Lunokhod 1 to investigate the
+surface.","Landed successfully and deployed the
+Lunokhod 1 rover.",between launch and event dates,spacecraft mass (source),58,7 days,58,"5,700 kg",10 Nov 1970,Launched,17 Nov 1970,Lunar encounter,,,land,"Lander · schematic, not to scale","Luna 17
+Successful · 10 November 1970
+Soviet Union
+Lander
+Click to explore this mission."
+M076,Apollo 14,Apollo 14,1971-01-31,31 January 1971,1971,USA,United States,NASA,Successful,Crewed landing,Exploring the lunar surface,"Explore the lunar surface, deploy experiments and return samples.","Astronauts landed, conducted surface science and returned safely to Earth.","Astronauts landed, conducted surface science and returned safely to Earth.",4 days,between launch and event dates,3,astronauts aboard,1971-01-31,Launched,1971-02-04,Entered lunar orbit,,No later date in source,https://www.nasa.gov/mission/apollo-14/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful,1/31/1971,2026-10-11,0,0,Not tracked; outcome is distinct from current operations,74,74,31,Apollo 14,1971 · USA,United States · NASA,64,Apollo 14,"Exploring the lunar
+surface","Astronauts landed, conducted surface
+science and returned safely to Earth.","Explore the lunar surface, deploy
+experiments and return samples.","Astronauts landed, conducted surface
+science and returned safely to Earth.",between launch and event dates,astronauts aboard,58,4 days,58,3,31 Jan 1971,Launched,4 Feb 1971,Entered lunar orbit,,,land,"Crewed landing · schematic, not to scale","Apollo 14
+Successful · 31 January 1971
+United States
+Crewed landing
+Click to explore this mission."
+M077,Apollo 15,Apollo 15,1971-07-26,26 July 1971,1971,USA,United States,NASA,Successful,Crewed landing,Exploring the lunar surface,"Explore the lunar surface, deploy experiments and return samples.","Astronauts landed, conducted surface science and returned safely to Earth.","Astronauts landed, conducted surface science and returned safely to Earth.",3 days,between launch and event dates,3,astronauts aboard,1971-07-26,Launched,1971-07-29,Entered lunar orbit,,No later date in source,https://www.nasa.gov/mission/apollo-15/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful,7/26/1971,2026-10-11,0,0,Not tracked; outcome is distinct from current operations,75,75,32,Apollo 15,1971 · USA,United States · NASA,64,Apollo 15,"Exploring the lunar
+surface","Astronauts landed, conducted surface
+science and returned safely to Earth.","Explore the lunar surface, deploy
+experiments and return samples.","Astronauts landed, conducted surface
+science and returned safely to Earth.",between launch and event dates,astronauts aboard,58,3 days,58,3,26 Jul 1971,Launched,29 Jul 1971,Entered lunar orbit,,,land,"Crewed landing · schematic, not to scale","Apollo 15
+Successful · 26 July 1971
+United States
+Crewed landing
+Click to explore this mission."
+M079,Luna 18,Luna 18,1971-09-02,2 September 1971,1971,USSR,Soviet Union,Soviet space programme,Failed,Sample Return,Samples lost at touchdown,"Land, collect lunar soil and return it to Earth.","Reached lunar orbit, but contact was lost during the landing attempt and no samples returned.","Reached lunar orbit, but contact was lost during the landing attempt and no samples returned.",9 days,between launch and event dates,"~5,750 kg",spacecraft mass (source),1971-09-02,Launched,1971-09-11,Lunar encounter,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=102,"NASA Deep Space Chronicle, PDF page 102; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful,9/2/1971,2026-10-11,129,102,Not tracked; outcome is distinct from current operations,76,76,39,Luna 18,1971 · USSR,Soviet Union · Soviet space programme,64,Luna 18,"Samples lost at
+touchdown","Reached lunar orbit, but contact was lost
+during the landing attempt and no
+samples returned.","Land, collect lunar soil and return it to Earth.","Reached lunar orbit, but contact was lost
+during the landing attempt and no samples
+returned.",between launch and event dates,spacecraft mass (source),58,9 days,36,"~5,750 kg",2 Sep 1971,Launched,11 Sep 1971,Lunar encounter,,,return,"Intended Sample Return · schematic, not to scale","Luna 18
+Failed · 2 September 1971
+Soviet Union
+Sample Return
+Click to explore this mission."
+M080,Luna 19,Luna 19,1971-09-28,28 September 1971,1971,USSR,Soviet Union,Soviet space programme,Successful,Orbiter,A sustained orbital survey,Photograph the surface and investigate lunar gravity and space conditions.,Conducted an extended programme of observations from lunar orbit.,Conducted an extended programme of observations from lunar orbit.,5 days,between launch and event dates,"~5,700 kg",spacecraft mass (source),1971-09-28,Launched,1971-10-03,Lunar encounter,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=102,"NASA Deep Space Chronicle, PDF page 102; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful,9/28/1971,2026-10-11,130,102,Not tracked; outcome is distinct from current operations,77,77,33,Luna 19,1971 · USSR,Soviet Union · Soviet space programme,64,Luna 19,"A sustained orbital
+survey","Conducted an extended programme of
+observations from lunar orbit.","Photograph the surface and investigate lunar
+gravity and space conditions.","Conducted an extended programme of
+observations from lunar orbit.",between launch and event dates,spacecraft mass (source),58,5 days,36,"~5,700 kg",28 Sep 1971,Launched,3 Oct 1971,Lunar encounter,,,orbit,"Orbiter · schematic, not to scale","Luna 19
+Successful · 28 September 1971
+Soviet Union
+Orbiter
+Click to explore this mission."
+M081,Luna 20,Luna 20,1972-02-14,14 February 1972,1972,USSR,Soviet Union,Soviet space programme,Successful,Orbiter/Sample Return,Highland samples returned,Collect lunar highland material and bring it to Earth.,"Landed, collected soil and successfully returned its sample capsule.","Landed, collected soil and successfully returned its sample capsule.",7 days,between launch and event dates,"~5,750 kg",spacecraft mass (source),1972-02-14,Launched,1972-02-21,Lunar encounter,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=105,"NASA Deep Space Chronicle, PDF page 105; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful,2/14/1972,2026-10-11,131,105,Not tracked; outcome is distinct from current operations,78,78,34,Luna 20,1972 · USSR,Soviet Union · Soviet space programme,64,Luna 20,"Highland samples
+returned","Landed, collected soil and successfully
+returned its sample capsule.","Collect lunar highland material and bring it to
+Earth.","Landed, collected soil and successfully
+returned its sample capsule.",between launch and event dates,spacecraft mass (source),58,7 days,36,"~5,750 kg",14 Feb 1972,Launched,21 Feb 1972,Lunar encounter,,,return,"Orbiter/Sample Return · schematic, not to scale","Luna 20
+Successful · 14 February 1972
+Soviet Union
+Orbiter/Sample Return
+Click to explore this mission."
+M082,Apollo 16,Apollo 16,1972-04-16,16 April 1972,1972,USA,United States,NASA,Successful,Crewed landing,Exploring the lunar surface,"Explore the lunar surface, deploy experiments and return samples.","Astronauts landed, conducted surface science and returned safely to Earth.","Astronauts landed, conducted surface science and returned safely to Earth.",3 days,between launch and event dates,3,astronauts aboard,1972-04-16,Launched,1972-04-19,Entered lunar orbit,,No later date in source,https://www.nasa.gov/mission/apollo-16/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful,4/16/1972,2026-10-11,0,0,Not tracked; outcome is distinct from current operations,79,79,35,Apollo 16,1972 · USA,United States · NASA,64,Apollo 16,"Exploring the lunar
+surface","Astronauts landed, conducted surface
+science and returned safely to Earth.","Explore the lunar surface, deploy
+experiments and return samples.","Astronauts landed, conducted surface
+science and returned safely to Earth.",between launch and event dates,astronauts aboard,58,3 days,58,3,16 Apr 1972,Launched,19 Apr 1972,Entered lunar orbit,,,land,"Crewed landing · schematic, not to scale","Apollo 16
+Successful · 16 April 1972
+United States
+Crewed landing
+Click to explore this mission."
+M084,Apollo 17,Apollo 17,1972-12-07,7 December 1972,1972,USA,United States,NASA,Successful,Crewed landing,Exploring the lunar surface,"Explore the lunar surface, deploy experiments and return samples.","Astronauts landed, conducted surface science and returned safely to Earth.","Astronauts landed, conducted surface science and returned safely to Earth.",3 days,between launch and event dates,3,astronauts aboard,1972-12-07,Launched,1972-12-10,Entered lunar orbit,,No later date in source,https://www.nasa.gov/mission/apollo-17/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful; first scientist on the Moon and final Apollo mission,12/7/1972,2026-10-11,0,0,Not tracked; outcome is distinct from current operations,80,80,36,Apollo 17,1972 · USA,United States · NASA,64,Apollo 17,"Exploring the lunar
+surface","Astronauts landed, conducted surface
+science and returned safely to Earth.","Explore the lunar surface, deploy
+experiments and return samples.","Astronauts landed, conducted surface
+science and returned safely to Earth.",between launch and event dates,astronauts aboard,58,3 days,58,3,7 Dec 1972,Launched,10 Dec 1972,Entered lunar orbit,,,land,"Crewed landing · schematic, not to scale","Apollo 17
+Successful · 7 December 1972
+United States
+Crewed landing
+Click to explore this mission."
+M085,Luna 21,Luna 21,1973-01-08,8 January 1973,1973,USSR,Soviet Union,Soviet space programme,Successful,Lander / Rover,Lunokhod 2 on the surface,Deliver a rover to explore and photograph the Moon.,Successfully landed and deployed Lunokhod 2 for surface exploration.,Successfully landed and deployed Lunokhod 2 for surface exploration.,7 days,between launch and event dates,"~5,950 kg",spacecraft mass (source),1973-01-08,Launched,1973-01-15,Lunar encounter,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=113,"NASA Deep Space Chronicle, PDF page 113; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful; delivered Lunokhod 2 rover to the surface of the Moon,1/8/1973,2026-10-11,137,113,Not tracked; outcome is distinct from current operations,81,81,37,Luna 21,1973 · USSR,Soviet Union · Soviet space programme,64,Luna 21,"Lunokhod 2 on the
+surface","Successfully landed and deployed
+Lunokhod 2 for surface exploration.","Deliver a rover to explore and photograph the
+Moon.","Successfully landed and deployed Lunokhod
+2 for surface exploration.",between launch and event dates,spacecraft mass (source),58,7 days,36,"~5,950 kg",8 Jan 1973,Launched,15 Jan 1973,Lunar encounter,,,land,"Lander / Rover · schematic, not to scale","Luna 21
+Successful · 8 January 1973
+Soviet Union
+Lander / Rover
+Click to explore this mission."
+M087,Luna 22,Luna 22,1974-05-29,29 May 1974,1974,USSR,Soviet Union,Soviet space programme,Successful,Orbiter,An extended view from orbit,"Photograph the surface and study composition, radiation and the lunar environment.",Completed its orbital science programme and continued observations beyond the primary mission.,Completed its orbital science programme and continued observations beyond the primary mission.,4 days,between launch and event dates,"5,700 kg",spacecraft mass (source),1974-05-29,Launched,1974-06-02,Lunar encounter,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=119,"NASA Deep Space Chronicle, PDF page 119; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful,5/29/1974,2026-10-11,145,119,Not tracked; outcome is distinct from current operations,82,82,38,Luna 22,1974 · USSR,Soviet Union · Soviet space programme,64,Luna 22,"An extended view
+from orbit","Completed its orbital science
+programme and continued observations
+beyond the primary mission.","Photograph the surface and study
+composition, radiation and the lunar
+environment.","Completed its orbital science programme
+and continued observations beyond the
+primary mission.",between launch and event dates,spacecraft mass (source),58,4 days,58,"5,700 kg",29 May 1974,Launched,2 Jun 1974,Lunar encounter,,,orbit,"Orbiter · schematic, not to scale","Luna 22
+Successful · 29 May 1974
+Soviet Union
+Orbiter
+Click to explore this mission."
+M088,Luna 23,Luna 23,1974-10-28,28 October 1974,1974,USSR,Soviet Union,Soviet space programme,Partial,Sample Return,Landing achieved; sampling failed,Drill into the lunar surface and return a sample.,"Landed, but damage prevented the intended sample return.","Landed, but damage prevented the intended sample return.",9 days,between launch and event dates,"~5,800 kg",spacecraft mass (source),1974-10-28,Launched,1974-11-06,Lunar encounter,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=119,"NASA Deep Space Chronicle, PDF page 119; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Partial Success,10/28/1974,2026-10-11,146,119,Not tracked; outcome is distinct from current operations,83,83,6,Luna 23,1974 · USSR,Soviet Union · Soviet space programme,64,Luna 23,"Landing achieved;
+sampling failed","Landed, but damage prevented the
+intended sample return.","Drill into the lunar surface and return a
+sample.","Landed, but damage prevented the intended
+sample return.",between launch and event dates,spacecraft mass (source),58,9 days,36,"~5,800 kg",28 Oct 1974,Launched,6 Nov 1974,Lunar encounter,,,return,"Sample Return · schematic, not to scale","Luna 23
+Partial · 28 October 1974
+Soviet Union
+Sample Return
+Click to explore this mission."
+M089,Luna 24,Luna 24,1976-08-09,9 August 1976,1976,USSR,Soviet Union,Soviet space programme,Successful,Sample Return,A deep lunar sample,Drill for lunar material and return it to Earth.,Successfully returned a drilled sample of lunar soil.,Successfully returned a drilled sample of lunar soil.,9 days,between launch and event dates,"~5,800 kg",spacecraft mass (source),1976-08-09,Launched,1976-08-18,Lunar encounter,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=127,"NASA Deep Space Chronicle, PDF page 127; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful,8/9/1976,2026-10-11,154,127,Not tracked; outcome is distinct from current operations,84,84,39,Luna 24,1976 · USSR,Soviet Union · Soviet space programme,64,Luna 24,"A deep lunar
+sample","Successfully returned a drilled sample of
+lunar soil.",Drill for lunar material and return it to Earth.,"Successfully returned a drilled sample of
+lunar soil.",between launch and event dates,spacecraft mass (source),58,9 days,36,"~5,800 kg",9 Aug 1976,Launched,18 Aug 1976,Lunar encounter,,,return,"Sample Return · schematic, not to scale","Luna 24
+Successful · 9 August 1976
+Soviet Union
+Sample Return
+Click to explore this mission."
+M090,Hiten,Hiten,1990-01-24,24 January 1990,1990,Japan,Japan,JAXA,Successful,Orbiter/Impact,Japan reached the Moon,Test lunar navigation and orbital flight.,"Completed a pioneering Japanese lunar mission, including flybys and lunar orbit.","Completed a pioneering Japanese lunar mission, including flybys and lunar orbit.",54 days,between launch and event dates,197.4 kg,spacecraft mass (source),1990-01-24,Launched,1990-03-19,Lunar encounter,,No later date in source,https://science.nasa.gov/wp-content/uploads/2023/09/DSC_monograph24.pdf#page=161,"NASA Deep Space Chronicle, PDF page 161; English",https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful; first Japanese Moon mission,1/24/1990,2026-10-11,175,161,Not tracked; outcome is distinct from current operations,85,85,40,Hiten,1990 · Japan,Japan · JAXA,64,Hiten,"Japan reached the
+Moon","Completed a pioneering Japanese lunar
+mission, including flybys and lunar orbit.",Test lunar navigation and orbital flight.,"Completed a pioneering Japanese lunar
+mission, including flybys and lunar orbit.",between launch and event dates,spacecraft mass (source),58,54 days,58,197.4 kg,24 Jan 1990,Launched,19 Mar 1990,Lunar encounter,,,orbit,"Orbiter/Impact · schematic, not to scale","Hiten
+Successful · 24 January 1990
+Japan
+Orbiter/Impact
+Click to explore this mission."
+M091,Clementine,Clementine,1994-01-25,25 January 1994,1994,USA,United States,NASA,Successful,Orbiter,Mapping the Moon anew,Test spacecraft sensors and map the lunar surface.,Completed its lunar mapping objectives; a later asteroid encounter was cancelled after a malfunction.,Completed its lunar mapping objectives; a later asteroid encounter was cancelled after a malfunction.,25 days,between launch and event dates,424 kg,spacecraft mass (source),1994-01-25,Launched,1994-02-19,Lunar encounter,,No later date in source,https://science.nasa.gov/mission/clementine/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful,1/25/1994,2026-10-11,178,167,Not tracked; outcome is distinct from current operations,86,86,41,Clementine,1994 · USA,United States · NASA,64,Clementine,"Mapping the Moon
+anew","Completed its lunar mapping objectives;
+a later asteroid encounter was cancelled
+after a malfunction.","Test spacecraft sensors and map the lunar
+surface.","Completed its lunar mapping objectives; a
+later asteroid encounter was cancelled after
+a malfunction.",between launch and event dates,spacecraft mass (source),58,25 days,58,424 kg,25 Jan 1994,Launched,19 Feb 1994,Lunar encounter,,,orbit,"Orbiter · schematic, not to scale","Clementine
+Successful · 25 January 1994
+United States
+Orbiter
+Click to explore this mission."
+M092,Lunar Prospector,Lunar Prospector,1998-01-07,7 January 1998,1998,USA,United States,NASA,Successful,Orbiter/Impact,Searching for polar ice,Map lunar composition and investigate possible polar ice.,Returned evidence consistent with water ice near both poles and mapped lunar composition.,Returned evidence consistent with water ice near both poles and mapped lunar composition.,4 days,between launch and event dates,300 kg,spacecraft mass (source),1998-01-07,Launched,1998-01-11,Lunar encounter,,No later date in source,https://science.nasa.gov/mission/lunar-prospector/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful,1/7/1998,2026-10-11,188,185,Not tracked; outcome is distinct from current operations,87,87,42,"Lunar
+Prospector",1998 · USA,United States · NASA,36,Lunar Prospector,"Searching for polar
+ice","Returned evidence consistent with water
+ice near both poles and mapped lunar
+composition.","Map lunar composition and investigate
+possible polar ice.","Returned evidence consistent with water ice
+near both poles and mapped lunar
+composition.",between launch and event dates,spacecraft mass (source),58,4 days,58,300 kg,7 Jan 1998,Launched,11 Jan 1998,Lunar encounter,,,orbit,"Orbiter/Impact · schematic, not to scale","Lunar Prospector
+Successful · 7 January 1998
+United States
+Orbiter/Impact
+Click to explore this mission."
+M093,SMART-1,SMART-1,2003-09-27,27 September 2003,2003,Europe / ESA,Europe / ESA,ESA,Successful,Orbiter/Impact,Electric propulsion to the Moon,Test solar-electric propulsion and compact scientific instruments.,Completed its technology demonstrations and lunar science programme.,Completed its technology demonstrations and lunar science programme.,415 days,between launch and event dates,Robotic,mission crew type,2003-09-27,Launched,2004-11-15,Lunar encounter,,No later date in source,https://science.nasa.gov/mission/smart-1/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful; first European Moon mission,9/27/2003,2026-10-11,0,0,Not tracked; outcome is distinct from current operations,88,88,43,SMART-1,2003 · Europe / ESA,Europe / ESA · ESA,64,SMART-1,"Electric propulsion
+to the Moon","Completed its technology
+demonstrations and lunar science
+programme.","Test solar-electric propulsion and compact
+scientific instruments.","Completed its technology demonstrations
+and lunar science programme.",between launch and event dates,mission crew type,58,415 days,58,Robotic,27 Sep 2003,Launched,15 Nov 2004,Lunar encounter,,,orbit,"Orbiter/Impact · schematic, not to scale","SMART-1
+Successful · 27 September 2003
+Europe / ESA
+Orbiter/Impact
+Click to explore this mission."
+M100,ARTEMIS probes,ARTEMIS-THEMIS,2007-02-17,17 February 2007,2007,USA,United States,NASA,Successful,Orbiters,Two probes redirected,Study the Moon’s interaction with the solar wind.,Two THEMIS spacecraft moved from their original Earth mission into lunar orbit in 2011.,Two THEMIS spacecraft moved from their original Earth mission into lunar orbit in 2011.,2011,entered lunar orbit,2,repurposed THEMIS probes,2007-02-17,Launched,,No arrival recorded,,No later date in source,https://science.nasa.gov/mission/themis-artemis/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,(Active Mission) Successful; twin spacecraft on an extended lunar mission after successful Earth observations,2010,2026-10-11,0,0,Not tracked; outcome is distinct from current operations,89,89,44,"ARTEMIS
+probes",2007 · USA,United States · NASA,64,ARTEMIS probes,"Two probes
+redirected","Two THEMIS spacecraft moved from
+their original Earth mission into lunar
+orbit in 2011.","Study the Moon’s interaction with the solar
+wind.","Two THEMIS spacecraft moved from their
+original Earth mission into lunar orbit in
+2011.",entered lunar orbit,repurposed THEMIS probes,58,2011,58,2,17 Feb 2007,Launched,,,,,orbit,"Orbiters · schematic, not to scale","ARTEMIS-THEMIS
+Successful · 17 February 2007
+United States
+Orbiters
+Click to explore this mission."
+M094,Kaguya,SELENE (Kaguya),2007-09-14,14 September 2007,2007,Japan,Japan,JAXA,Successful,Orbiter/Impact,Japan mapped the Moon,Study the Moon’s surface and gravity with an orbiter and relay satellites.,Completed its lunar observations before a controlled impact at the end of the mission.,Completed its lunar observations before a controlled impact at the end of the mission.,19 days,between launch and event dates,Robotic,mission crew type,2007-09-14,Launched,2007-10-03,Lunar encounter,,No later date in source,https://en.wikipedia.org/wiki/SELENE,Mission history in English; Wikipedia (secondary source),https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful,9/14/2007,2026-10-11,0,0,Not tracked; outcome is distinct from current operations,90,90,45,Kaguya,2007 · Japan,Japan · JAXA,64,Kaguya,"Japan mapped the
+Moon","Completed its lunar observations before
+a controlled impact at the end of the
+mission.","Study the Moon’s surface and gravity with an
+orbiter and relay satellites.","Completed its lunar observations before a
+controlled impact at the end of the mission.",between launch and event dates,mission crew type,58,19 days,58,Robotic,14 Sep 2007,Launched,3 Oct 2007,Lunar encounter,,,orbit,"Orbiter/Impact · schematic, not to scale","SELENE (Kaguya)
+Successful · 14 September 2007
+Japan
+Orbiter/Impact
+Click to explore this mission."
+M095,Chang’e 1,Chang'e 1,2007-10-24,24 October 2007,2007,China,China,CNSA,Successful,Orbiter/impactor,China’s first lunar mission,Map the Moon and study its surface from orbit.,Successfully entered lunar orbit and completed China’s first mission to the Moon.,Successfully entered lunar orbit and completed China’s first mission to the Moon.,12 days,between launch and event dates,Robotic,mission crew type,2007-10-24,Launched,2007-11-05,Lunar encounter,,No later date in source,https://en.wikipedia.org/wiki/Chang%27e_1,Mission history in English; Wikipedia (secondary source),https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful; first Chinese Moon mission,10/24/2007,2026-10-11,0,0,Not tracked; outcome is distinct from current operations,91,91,46,Chang’e 1,2007 · China,China · CNSA,64,Chang’e 1,"China’s first lunar
+mission","Successfully entered lunar orbit and
+completed China’s first mission to the
+Moon.","Map the Moon and study its surface from
+orbit.","Successfully entered lunar orbit and
+completed China’s first mission to the Moon.",between launch and event dates,mission crew type,58,12 days,58,Robotic,24 Oct 2007,Launched,5 Nov 2007,Lunar encounter,,,orbit,"Orbiter/impactor · schematic, not to scale","Chang'e 1
+Successful · 24 October 2007
+China
+Orbiter/impactor
+Click to explore this mission."
+M096,Chandrayaan-1,Chandrayaan-1,2008-10-22,22 October 2008,2008,India,India,ISRO,Successful,Orbiter,Evidence of lunar water,Map lunar composition and study the surface from orbit.,Its instruments contributed to the discovery of water and hydroxyl on the lunar surface.,Its instruments contributed to the discovery of water and hydroxyl on the lunar surface.,17 days,between launch and event dates,Robotic,mission crew type,2008-10-22,Launched,2008-11-08,Entered lunar orbit,,No later date in source,https://science.nasa.gov/mission/chandrayaan-1/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful,10/22/2008,2026-10-11,0,0,Not tracked; outcome is distinct from current operations,92,92,47,Chandrayaan-1,2008 · India,India · ISRO,64,Chandrayaan-1,"Evidence of lunar
+water","Its instruments contributed to the
+discovery of water and hydroxyl on the
+lunar surface.","Map lunar composition and study the surface
+from orbit.","Its instruments contributed to the discovery
+of water and hydroxyl on the lunar surface.",between launch and event dates,mission crew type,58,17 days,58,Robotic,22 Oct 2008,Launched,8 Nov 2008,Entered lunar orbit,,,orbit,"Orbiter · schematic, not to scale","Chandrayaan-1
+Successful · 22 October 2008
+India
+Orbiter
+Click to explore this mission."
+M097,LRO,Lunar Reconnaissance Orbiter (LRO),2009-06-18,18 June 2009,2009,USA,United States,NASA,Successful,Orbiter,A detailed atlas of the Moon,Map the lunar surface and characterize sites for future exploration.,Produced extensive maps and scientific observations. Success does not mean that all operations have ended.,Produced extensive maps and scientific observations. Success does not mean that all operations have ended.,5 days,between launch and event dates,Robotic,mission crew type,2009-06-18,Launched,2009-06-23,Lunar encounter,,No later date in source,https://science.nasa.gov/mission/lro/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,(Active Mission) Successful; extended mission in progress,6/18/2009,2026-10-11,0,0,Not tracked; outcome is distinct from current operations,93,93,48,LRO,2009 · USA,United States · NASA,64,LRO,"A detailed atlas of
+the Moon","Produced extensive maps and scientific
+observations. Success does not mean
+that all operations have ended.","Map the lunar surface and characterize sites
+for future exploration.","Produced extensive maps and scientific
+observations. Success does not mean that
+all operations have ended.",between launch and event dates,mission crew type,58,5 days,58,Robotic,18 Jun 2009,Launched,23 Jun 2009,Lunar encounter,,,orbit,"Orbiter · schematic, not to scale","Lunar Reconnaissance Orbiter (LRO)
+Successful · 18 June 2009
+United States
+Orbiter
+Click to explore this mission."
+M098,LCROSS,LCROSS,2009-06-18,18 June 2009,2009,USA,United States,NASA,Successful,Impact,An impact exposed water,Search for water ice by observing material thrown up from a polar impact.,Detected water in ejecta from the deliberately targeted impact.,Detected water in ejecta from the deliberately targeted impact.,113 days,between launch and event dates,Robotic,mission crew type,2009-06-18,Launched,2009-10-09,Lunar encounter,,No later date in source,https://science.nasa.gov/mission/lcross/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful; impact of LRO upper stages,6/18/2009,2026-10-11,0,0,Not tracked; outcome is distinct from current operations,94,94,49,LCROSS,2009 · USA,United States · NASA,64,LCROSS,"An impact exposed
+water","Detected water in ejecta from the
+deliberately targeted impact.","Search for water ice by observing material
+thrown up from a polar impact.","Detected water in ejecta from the
+deliberately targeted impact.",between launch and event dates,mission crew type,58,113 days,58,Robotic,18 Jun 2009,Launched,9 Oct 2009,Lunar encounter,,,impact,"Impact · schematic, not to scale","LCROSS
+Successful · 18 June 2009
+United States
+Impact
+Click to explore this mission."
+M099,Chang’e 2,Chang'e 2,2010-10-01,1 October 2010,2010,China,China,CNSA,Successful,Orbiter,A closer look from orbit,Map the lunar surface and demonstrate improved lunar exploration technology.,Completed its lunar orbital mission before continuing to other destinations.,Completed its lunar orbital mission before continuing to other destinations.,4 days,between launch and event dates,Robotic,mission crew type,2010-10-01,Launched,2010-10-05,Lunar encounter,,No later date in source,https://en.wikipedia.org/wiki/Chang%27e_2,Mission history in English; Wikipedia (secondary source),https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful,10/1/2010,2026-10-11,0,0,Not tracked; outcome is distinct from current operations,95,95,50,Chang’e 2,2010 · China,China · CNSA,64,Chang’e 2,"A closer look from
+orbit","Completed its lunar orbital mission
+before continuing to other destinations.","Map the lunar surface and demonstrate
+improved lunar exploration technology.","Completed its lunar orbital mission before
+continuing to other destinations.",between launch and event dates,mission crew type,58,4 days,58,Robotic,1 Oct 2010,Launched,5 Oct 2010,Lunar encounter,,,orbit,"Orbiter · schematic, not to scale","Chang'e 2
+Successful · 1 October 2010
+China
+Orbiter
+Click to explore this mission."
+M101,GRAIL,Gravity Recovery and Interior Laboratory (GRAIL),2011-09-10,10 September 2011,2011,USA,United States,NASA,Successful,Orbiters,Gravity revealed the interior,Use two spacecraft to map variations in lunar gravity.,The twin probes mapped the gravity field in unprecedented detail.,The twin probes mapped the gravity field in unprecedented detail.,113 days,between launch and event dates,2,spacecraft: Ebb and Flow,2011-09-10,Launched,2012-01-01,Lunar encounter,,No later date in source,https://science.nasa.gov/mission/grail/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful; twin spacecraft,9/10/2011,2026-10-11,0,0,Not tracked; outcome is distinct from current operations,96,96,51,GRAIL,2011 · USA,United States · NASA,64,GRAIL,"Gravity revealed the
+interior","The twin probes mapped the gravity field
+in unprecedented detail.","Use two spacecraft to map variations in lunar
+gravity.","The twin probes mapped the gravity field in
+unprecedented detail.",between launch and event dates,spacecraft: Ebb and Flow,58,113 days,58,2,10 Sep 2011,Launched,1 Jan 2012,Lunar encounter,,,orbit,"Orbiters · schematic, not to scale","Gravity Recovery and Interior Laboratory (GRAIL)
+Successful · 10 September 2011
+United States
+Orbiters
+Click to explore this mission."
+M102,LADEE,Lunar Atmosphere and Dust Environment Explorer (LADEE),2013-09-07,7 September 2013,2013,USA,United States,NASA,Successful,Orbiter,Studying a thin atmosphere,Measure the Moon’s tenuous atmosphere and dust environment.,Completed lunar atmospheric observations before a planned impact.,Completed lunar atmospheric observations before a planned impact.,29 days,between launch and event dates,Robotic,mission crew type,2013-09-07,Launched,2013-10-06,Lunar encounter,,No later date in source,https://science.nasa.gov/mission/ladee/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful,9/7/2013,2026-10-11,0,0,Not tracked; outcome is distinct from current operations,97,97,52,LADEE,2013 · USA,United States · NASA,64,LADEE,"Studying a thin
+atmosphere","Completed lunar atmospheric
+observations before a planned impact.","Measure the Moon’s tenuous atmosphere
+and dust environment.","Completed lunar atmospheric observations
+before a planned impact.",between launch and event dates,mission crew type,58,29 days,58,Robotic,7 Sep 2013,Launched,6 Oct 2013,Lunar encounter,,,orbit,"Orbiter · schematic, not to scale","Lunar Atmosphere and Dust Environment Explorer (LADEE)
+Successful · 7 September 2013
+United States
+Orbiter
+Click to explore this mission."
+M103,Chang’e 3,Chang'e 3,2013-12-01,1 December 2013,2013,China,China,CNSA,Successful,Lander,A lander and rover arrived,Land instruments and the Yutu rover for surface exploration.,Successfully landed and deployed Yutu; rover mobility was later limited.,Successfully landed and deployed Yutu; rover mobility was later limited.,13 days,between launch and event dates,Robotic,mission crew type,2013-12-01,Launched,2013-12-14,Lunar encounter,,No later date in source,https://en.wikipedia.org/wiki/Chang%27e_3,Mission history in English; Wikipedia (secondary source),https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,(Active Mission) Successful; delivered Yutu rover to lunar surface,12/6/2013,2026-10-11,0,0,Not tracked; outcome is distinct from current operations,98,98,53,Chang’e 3,2013 · China,China · CNSA,64,Chang’e 3,"A lander and rover
+arrived","Successfully landed and deployed Yutu;
+rover mobility was later limited.","Land instruments and the Yutu rover for
+surface exploration.","Successfully landed and deployed Yutu;
+rover mobility was later limited.",between launch and event dates,mission crew type,58,13 days,58,Robotic,1 Dec 2013,Launched,14 Dec 2013,Lunar encounter,,,land,"Lander · schematic, not to scale","Chang'e 3
+Successful · 1 December 2013
+China
+Lander
+Click to explore this mission."
+M105,Chang’e 5-T1,Chang'e 5-Test Vehicle,2014-10-23,23 October 2014,2014,China,China,CNSA,Successful,Flyby,Rehearsing a return from the Moon,Test a high-speed Earth return after a lunar flyby.,"The test capsule returned successfully, supporting later lunar sample-return missions.","The test capsule returned successfully, supporting later lunar sample-return missions.",4 days,between launch and event dates,Robotic,mission crew type,2014-10-23,Launched,2014-10-27,Lunar encounter,,No later date in source,https://en.wikipedia.org/wiki/Chang%27e_5-T1,Mission history in English; Wikipedia (secondary source),https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful,10/23/2014,2026-10-11,0,0,Not tracked; outcome is distinct from current operations,99,99,54,Chang’e 5-T1,2014 · China,China · CNSA,64,Chang’e 5-T1,"Rehearsing a return
+from the Moon","The test capsule returned successfully,
+supporting later lunar sample-return
+missions.","Test a high-speed Earth return after a lunar
+flyby.","The test capsule returned successfully,
+supporting later lunar sample-return
+missions.",between launch and event dates,mission crew type,58,4 days,58,Robotic,23 Oct 2014,Launched,27 Oct 2014,Lunar encounter,,,flyby,"Flyby · schematic, not to scale","Chang'e 5-Test Vehicle
+Successful · 23 October 2014
+China
+Flyby
+Click to explore this mission."
+M106,Queqiao,Queqiao,2018-05-20,20 May 2018,2018,China,China,CNSA,Successful,Orbiter,A relay beyond the Moon,Relay communications between Earth and a far-side lander.,Established a communications relay supporting exploration of the lunar far side.,Established a communications relay supporting exploration of the lunar far side.,Unavailable,encounter date in source,Robotic,mission crew type,2018-05-20,Launched,,No arrival recorded,,No later date in source,https://en.wikipedia.org/wiki/Queqiao_relay_satellite,Mission history in English; Wikipedia (secondary source),https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful; lunar relay satellite,5/20/2018,2026-10-11,0,0,Not tracked; outcome is distinct from current operations,100,100,55,Queqiao,2018 · China,China · CNSA,64,Queqiao,"A relay beyond the
+Moon","Established a communications relay
+supporting exploration of the lunar far
+side.","Relay communications between Earth and a
+far-side lander.","Established a communications relay
+supporting exploration of the lunar far side.",encounter date in source,mission crew type,36,Unavailable,58,Robotic,20 May 2018,Launched,,,,,orbit,"Orbiter · schematic, not to scale","Queqiao
+Successful · 20 May 2018
+China
+Orbiter
+Click to explore this mission."
+M107,Chang’e 4,Chang'e 4 and Yutu 2,2018-12-07,7 December 2018,2018,China,China,CNSA,Successful,"Lander, Rover",First landing on the far side,Land a spacecraft and rover on the lunar far side.,Achieved the first soft landing on the Moon’s far side and deployed Yutu 2.,Achieved the first soft landing on the Moon’s far side and deployed Yutu 2.,27 days,between launch and event dates,Robotic,mission crew type,2018-12-07,Launched,2019-01-03,Lunar encounter,,No later date in source,https://en.wikipedia.org/wiki/Chang%27e_4,Mission history in English; Wikipedia (secondary source),https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful; first lunar farside landing,12/7/2018,2026-10-11,0,0,Not tracked; outcome is distinct from current operations,101,101,56,Chang’e 4,2018 · China,China · CNSA,64,Chang’e 4,"First landing on the
+far side","Achieved the first soft landing on the
+Moon’s far side and deployed Yutu 2.","Land a spacecraft and rover on the lunar far
+side.","Achieved the first soft landing on the Moon’s
+far side and deployed Yutu 2.",between launch and event dates,mission crew type,58,27 days,58,Robotic,7 Dec 2018,Launched,3 Jan 2019,Lunar encounter,,,land,"Lander, Rover · schematic, not to scale","Chang'e 4 and Yutu 2
+Successful · 7 December 2018
+China
+Lander, Rover
+Click to explore this mission."
+M108,Beresheet,Beresheet,2019-02-22,22 February 2019,2019,Israel,Israel,SpaceIL & Israel Aerospace Industries,Failed,Lander,A private landing attempt,Demonstrate a privately developed lunar landing.,Reached lunar orbit but crashed during its descent.,Reached lunar orbit but crashed during its descent.,48 days,between launch and event dates,Robotic,mission crew type,2019-02-22,Launched,2019-04-11,Lunar encounter,,No later date in source,https://science.nasa.gov/mission/beresheet/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful; first lunar landing attempt by a private company,2/22/2019,2026-10-11,0,0,Not tracked; outcome is distinct from current operations,102,102,40,Beresheet,2019 · Israel,Israel · SpaceIL & Israel Aerospace Industries,64,Beresheet,"A private landing
+attempt","Reached lunar orbit but crashed during
+its descent.","Demonstrate a privately developed lunar
+landing.","Reached lunar orbit but crashed during its
+descent.",between launch and event dates,mission crew type,58,48 days,58,Robotic,22 Feb 2019,Launched,11 Apr 2019,Lunar encounter,,,land,"Intended Lander · schematic, not to scale","Beresheet
+Failed · 22 February 2019
+Israel
+Lander
+Click to explore this mission."
+M109,Chandrayaan-2,Chandrayaan-2,2019-07-22,22 July 2019,2019,India,India,ISRO,Partial,Orbiter / Lander / Rover,Orbiter success; lander lost,Orbit the Moon and deliver a lander and rover.,"The orbiter achieved useful science, but the Vikram lander did not soft-land. The combined mission is classified as partial.","The orbiter achieved useful science, but the Vikram lander did not soft-land. The combined mission is classified as partial.",29 days,between launch and event dates,Robotic,mission crew type,2019-07-22,Launched,2019-08-20,Entered lunar orbit,,No later date in source,https://science.nasa.gov/mission/chandrayaan-2/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful,7/22/2019,2026-10-11,0,0,Not tracked; outcome is distinct from current operations,103,103,7,Chandrayaan-2,2019 · India,India · ISRO,64,Chandrayaan-2,"Orbiter success;
+lander lost","The orbiter achieved useful science, but
+the Vikram lander did not soft-land. The
+combined mission is classified as partial.","Orbit the Moon and deliver a lander and
+rover.","The orbiter achieved useful science, but the
+Vikram lander did not soft-land. The
+combined mission is classified as partial.",between launch and event dates,mission crew type,58,29 days,58,Robotic,22 Jul 2019,Launched,20 Aug 2019,Entered lunar orbit,,,orbit,"Orbiter / Lander / Rover · schematic, not to scale","Chandrayaan-2
+Partial · 22 July 2019
+India
+Orbiter / Lander / Rover
+Click to explore this mission."
+M110,Chang’e 5,Chang'e 5,2020-11-23,23 November 2020,2020,China,China,CNSA,Successful,Sample Return,Lunar samples returned again,Collect lunar material and bring it to Earth.,Successfully returned samples from the near side of the Moon.,Successfully returned samples from the near side of the Moon.,8 days,between launch and event dates,Robotic,mission crew type,2020-11-23,Launched,2020-12-01,Lunar encounter,,No later date in source,https://en.wikipedia.org/wiki/Chang%27e_5,Mission history in English; Wikipedia (secondary source),https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful,11/23/2020,2026-10-11,0,0,Not tracked; outcome is distinct from current operations,104,104,57,Chang’e 5,2020 · China,China · CNSA,64,Chang’e 5,"Lunar samples
+returned again","Successfully returned samples from the
+near side of the Moon.",Collect lunar material and bring it to Earth.,"Successfully returned samples from the near
+side of the Moon.",between launch and event dates,mission crew type,58,8 days,58,Robotic,23 Nov 2020,Launched,1 Dec 2020,Lunar encounter,,,return,"Sample Return · schematic, not to scale","Chang'e 5
+Successful · 23 November 2020
+China
+Sample Return
+Click to explore this mission."
+M111,Danuri,Danuri (Korean Pathfinder Lunar Orbiter),2022-08-04,4 August 2022,2022,South Korea,South Korea,KARI,Successful,Orbiter,South Korea entered lunar orbit,Demonstrate lunar-orbit operations and study the Moon.,Entered lunar orbit and began scientific observations as South Korea’s first lunar mission.,Entered lunar orbit and began scientific observations as South Korea’s first lunar mission.,134 days,between launch and event dates,Robotic,mission crew type,2022-08-04,Launched,2022-12-16,Lunar encounter,,No later date in source,https://en.wikipedia.org/wiki/Danuri,Mission history in English; Wikipedia (secondary source),https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful,8/04/2022,2026-10-11,0,0,Not tracked; outcome is distinct from current operations,105,105,58,Danuri,2022 · South Korea,South Korea · KARI,64,Danuri,"South Korea
+entered lunar orbit","Entered lunar orbit and began scientific
+observations as South Korea’s first lunar
+mission.","Demonstrate lunar-orbit operations and study
+the Moon.","Entered lunar orbit and began scientific
+observations as South Korea’s first lunar
+mission.",between launch and event dates,mission crew type,58,134 days,58,Robotic,4 Aug 2022,Launched,16 Dec 2022,Lunar encounter,,,orbit,"Orbiter · schematic, not to scale","Danuri (Korean Pathfinder Lunar Orbiter)
+Successful · 4 August 2022
+South Korea
+Orbiter
+Click to explore this mission."
+M112,Artemis I,Artemis I,2022-11-16,16 November 2022,2022,USA,United States,NASA,Successful,Flyby,Orion’s uncrewed proving flight,Test the SLS rocket and Orion spacecraft around the Moon.,Completed an uncrewed lunar flight and returned safely to Earth.,Completed an uncrewed lunar flight and returned safely to Earth.,5 days,between launch and event dates,Robotic,mission crew type,2022-11-16,Launched,2022-11-21,Lunar encounter,,No later date in source,https://www.nasa.gov/mission/artemis-i/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful; first flight test of the Space Launch System rocket and the Orion capsule,11/16/2022,2026-10-11,0,0,Not tracked; outcome is distinct from current operations,106,106,59,Artemis I,2022 · USA,United States · NASA,64,Artemis I,"Orion’s uncrewed
+proving flight","Completed an uncrewed lunar flight and
+returned safely to Earth.","Test the SLS rocket and Orion spacecraft
+around the Moon.","Completed an uncrewed lunar flight and
+returned safely to Earth.",between launch and event dates,mission crew type,58,5 days,58,Robotic,16 Nov 2022,Launched,21 Nov 2022,Lunar encounter,,,flyby,"Flyby · schematic, not to scale","Artemis I
+Successful · 16 November 2022
+United States
+Flyby
+Click to explore this mission."
+M113,Hakuto-R M1,Hakuto-R Mission 1,2022-12-11,11 December 2022,2022,Japan,Japan,ispace,Failed,Lander,Orbit reached; landing failed,Deliver commercial payloads and the Rashid rover to the surface.,Completed the cruise and lunar orbit phases but failed to make a soft landing.,Completed the cruise and lunar orbit phases but failed to make a soft landing.,135 days,between launch and event dates,Robotic,mission crew type,2022-12-11,Launched,2023-04-25,Landing / attempt,,No later date in source,https://www.ispace-inc.com/mission-1/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful,12/11/2022,2026-10-11,0,0,Not tracked; outcome is distinct from current operations,107,107,41,Hakuto-R M1,2022 · Japan,Japan · ispace,64,Hakuto-R M1,"Orbit reached;
+landing failed","Completed the cruise and lunar orbit
+phases but failed to make a soft landing.","Deliver commercial payloads and the Rashid
+rover to the surface.","Completed the cruise and lunar orbit phases
+but failed to make a soft landing.",between launch and event dates,mission crew type,58,135 days,58,Robotic,11 Dec 2022,Launched,25 Apr 2023,Landing / attempt,,,land,"Intended Lander · schematic, not to scale","Hakuto-R Mission 1
+Failed · 11 December 2022
+Japan
+Lander
+Click to explore this mission."
+M115,Chandrayaan-3,Chandrayaan-3,2023-07-14,14 July 2023,2023,India,India,ISRO,Successful,Lander and Rover,India landed near the south pole,"Demonstrate a safe landing, rover motion and surface science.",The lander and rover completed their core surface demonstrations.,The lander and rover completed their core surface demonstrations.,40 days,between launch and event dates,Robotic,mission crew type,2023-07-14,Launched,2023-08-23,Landing / attempt,,No later date in source,https://www.isro.gov.in/Chandrayaan3_Details.html,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful; First spacecraft to soft land near the lunar South Pole.,07/14/2023,2026-10-11,0,0,Not tracked; outcome is distinct from current operations,108,108,60,Chandrayaan-3,2023 · India,India · ISRO,64,Chandrayaan-3,"India landed near
+the south pole","The lander and rover completed their
+core surface demonstrations.","Demonstrate a safe landing, rover motion
+and surface science.","The lander and rover completed their core
+surface demonstrations.",between launch and event dates,mission crew type,58,40 days,58,Robotic,14 Jul 2023,Launched,23 Aug 2023,Landing / attempt,,,land,"Lander and Rover · schematic, not to scale","Chandrayaan-3
+Successful · 14 July 2023
+India
+Lander and Rover
+Click to explore this mission."
+M116,Luna 25,Luna 25,2023-08-10,10 August 2023,2023,Russia,Russia,Roscosmos,Failed,Lander,A landing attempt ended in orbit,Land near the lunar south-polar region and study the surface.,The spacecraft crashed before its planned soft landing.,The spacecraft crashed before its planned soft landing.,9 days,between launch and event dates,Robotic,mission crew type,2023-08-10,Launched,2023-08-19,Lunar encounter,,No later date in source,https://en.wikipedia.org/wiki/Luna_25,Mission history in English; Wikipedia (secondary source),https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful,08/10/2023,2026-10-11,0,0,Not tracked; outcome is distinct from current operations,109,109,42,Luna 25,2023 · Russia,Russia · Roscosmos,64,Luna 25,"A landing attempt
+ended in orbit","The spacecraft crashed before its
+planned soft landing.","Land near the lunar south-polar region and
+study the surface.","The spacecraft crashed before its planned
+soft landing.",between launch and event dates,mission crew type,58,9 days,58,Robotic,10 Aug 2023,Launched,19 Aug 2023,Lunar encounter,,,land,"Intended Lander · schematic, not to scale","Luna 25
+Failed · 10 August 2023
+Russia
+Lander
+Click to explore this mission."
+M117,SLIM,SLIM,2023-09-06,6 September 2023,2023,Japan,Japan,JAXA,Successful,Lander and Rover,A pinpoint landing,Demonstrate a precise lunar landing and observe surface rocks.,Achieved its precision-landing objective and rock observations despite an awkward landing attitude.,Achieved its precision-landing objective and rock observations despite an awkward landing attitude.,135 days,between launch and event dates,Robotic,mission crew type,2023-09-06,Launched,2024-01-19,Landing / attempt,2024-08-23,Operations ended,https://global.jaxa.jp/press/2024/08/20240826-1_e.html,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,"Soft landing, but with limited use of solar panels.",09/06/2023,2026-10-11,0,0,Not tracked; outcome is distinct from current operations,110,110,61,SLIM,2023 · Japan,Japan · JAXA,64,SLIM,A pinpoint landing,"Achieved its precision-landing objective
+and rock observations despite an
+awkward landing attitude.","Demonstrate a precise lunar landing and
+observe surface rocks.","Achieved its precision-landing objective and
+rock observations despite an awkward
+landing attitude.",between launch and event dates,mission crew type,58,135 days,58,Robotic,6 Sep 2023,Launched,19 Jan 2024,Landing / attempt,23 Aug 2024,Operations ended,land,"Lander and Rover · schematic, not to scale","SLIM
+Successful · 6 September 2023
+Japan
+Lander and Rover
+Click to explore this mission."
+M118,Peregrine M1,Peregrine Mission 1,2024-01-08,8 January 2024,2024,USA,United States,Astrobotic,Failed,Lander,A fuel leak ended the attempt,Deliver scientific payloads to the lunar surface.,A propulsion problem prevented a lunar landing. The spacecraft returned to Earth’s atmosphere.,A propulsion problem prevented a lunar landing. The spacecraft returned to Earth’s atmosphere.,Unavailable,encounter date in source,Robotic,mission crew type,2024-01-08,Launched,,No arrival recorded,,No later date in source,https://en.wikipedia.org/wiki/Peregrine_Mission_One,Mission history in English; Wikipedia (secondary source),https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Unsuccessful; First launch under NASA's Commercial Lunar Payload Services program,01/08/2024,2026-10-11,0,0,Not tracked; outcome is distinct from current operations,111,111,43,Peregrine M1,2024 · USA,United States · Astrobotic,64,Peregrine M1,"A fuel leak ended
+the attempt","A propulsion problem prevented a lunar
+landing. The spacecraft returned to
+Earth’s atmosphere.","Deliver scientific payloads to the lunar
+surface.","A propulsion problem prevented a lunar
+landing. The spacecraft returned to Earth’s
+atmosphere.",encounter date in source,mission crew type,36,Unavailable,58,Robotic,8 Jan 2024,Launched,,,,,land,"Intended Lander · schematic, not to scale","Peregrine Mission 1
+Failed · 8 January 2024
+United States
+Lander
+Click to explore this mission."
+M119,IM-1,IM-1,2024-02-15,15 February 2024,2024,USA,United States,Intuitive Machines,Partial,Lander,A landing with limitations,Deliver instruments and demonstrate a commercial lunar landing.,"Reached the surface but tipped over, limiting communications and surface operations.","Reached the surface but tipped over, limiting communications and surface operations.",7 days,between launch and event dates,Robotic,mission crew type,2024-02-15,Launched,2024-02-22,Landing / attempt,,No later date in source,https://en.wikipedia.org/wiki/IM-1,Mission history in English; Wikipedia (secondary source),https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,First commercial soft lunar landing. The lander tipped over interfering with communications.,02/15/2024,2026-10-11,0,0,Not tracked; outcome is distinct from current operations,112,112,8,IM-1,2024 · USA,United States · Intuitive Machines,64,IM-1,"A landing with
+limitations","Reached the surface but tipped over,
+limiting communications and surface
+operations.","Deliver instruments and demonstrate a
+commercial lunar landing.","Reached the surface but tipped over, limiting
+communications and surface operations.",between launch and event dates,mission crew type,58,7 days,58,Robotic,15 Feb 2024,Launched,22 Feb 2024,Landing / attempt,,,land,"Lander · schematic, not to scale","IM-1
+Partial · 15 February 2024
+United States
+Lander
+Click to explore this mission."
+M120,Chang’e 6,Chang'e 6,2024-05-03,3 May 2024,2024,China,China,CNSA,Successful,Sample Return Mission,Samples from the far side,Collect and return material from the Moon’s far side.,Completed the first return of lunar far-side samples to Earth.,Completed the first return of lunar far-side samples to Earth.,29 days,between launch and event dates,Robotic,mission crew type,2024-05-03,Launched,2024-06-01,Lunar encounter,,No later date in source,https://en.wikipedia.org/wiki/Chang%27e_6,Mission history in English; Wikipedia (secondary source),https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,Successful. First sample return from the lunar far side.,05/03/2024,2026-10-11,0,0,Not tracked; outcome is distinct from current operations,113,113,62,Chang’e 6,2024 · China,China · CNSA,64,Chang’e 6,"Samples from the
+far side","Completed the first return of lunar
+far-side samples to Earth.","Collect and return material from the Moon’s
+far side.","Completed the first return of lunar far-side
+samples to Earth.",between launch and event dates,mission crew type,58,29 days,58,Robotic,3 May 2024,Launched,1 Jun 2024,Lunar encounter,,,return,"Sample Return Mission · schematic, not to scale","Chang'e 6
+Successful · 3 May 2024
+China
+Sample Return Mission
+Click to explore this mission."
+M121,Blue Ghost 1,Blue Ghost 1,2025-01-15,15 January 2025,2025,USA,United States,Firefly Aerospace,Successful,Lander,Science through a lunar day,Deliver and operate scientific instruments on the Moon.,Landed successfully and completed its surface mission in March 2025.,Landed successfully and completed its surface mission in March 2025.,46 days,between launch and event dates,Robotic,mission crew type,2025-01-15,Launched,2025-03-02,Landing / attempt,2025-03-16,Surface mission ended,https://www.nasa.gov/news-release/nasa-science-continues-after-fireflys-first-moon-mission-concludes/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,"Landed successfully. Concluded mission on March 16, 2025. Science analysis continues.",02/15/2025,2026-10-11,0,0,Not tracked; outcome is distinct from current operations,114,114,63,Blue Ghost 1,2025 · USA,United States · Firefly Aerospace,64,Blue Ghost 1,"Science through a
+lunar day","Landed successfully and completed its
+surface mission in March 2025.","Deliver and operate scientific instruments on
+the Moon.","Landed successfully and completed its
+surface mission in March 2025.",between launch and event dates,mission crew type,58,46 days,58,Robotic,15 Jan 2025,Launched,2 Mar 2025,Landing / attempt,16 Mar 2025,Surface mission ended,land,"Lander · schematic, not to scale","Blue Ghost 1
+Successful · 15 January 2025
+United States
+Lander
+Click to explore this mission."
+M122,IM-2,IM-2,2025-02-27,27 February 2025,2025,USA,United States,Intuitive Machines,Partial,Lander,A short surface mission,Deliver instruments to investigate the lunar south-polar region.,"Landed on its side in a crater, severely limiting the planned surface science.","Landed on its side in a crater, severely limiting the planned surface science.",7 days,between launch and event dates,Robotic,mission crew type,2025-02-27,Launched,2025-03-06,Landing / attempt,,No later date in source,https://en.wikipedia.org/wiki/IM-2,Mission history in English; Wikipedia (secondary source),https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,"Landed in a crater near the Moon's South Pole. Imagery confirmed the lander was on its side, limiting science operations.",02/27/2025,2026-10-11,0,0,Not tracked; outcome is distinct from current operations,115,115,9,IM-2,2025 · USA,United States · Intuitive Machines,64,IM-2,"A short surface
+mission","Landed on its side in a crater, severely
+limiting the planned surface science.","Deliver instruments to investigate the lunar
+south-polar region.","Landed on its side in a crater, severely
+limiting the planned surface science.",between launch and event dates,mission crew type,58,7 days,58,Robotic,27 Feb 2025,Launched,6 Mar 2025,Landing / attempt,,,land,"Lander · schematic, not to scale","IM-2
+Partial · 27 February 2025
+United States
+Lander
+Click to explore this mission."
+M123,Artemis II,Artemis II,2026-04-01,1 April 2026,2026,USA,United States,NASA,Successful,Crewed flyby,People returned around the Moon,Test Orion with a crew during a lunar flyby.,Four astronauts flew around the Moon and returned safely to Earth in April 2026.,Four astronauts flew around the Moon and returned safely to Earth in April 2026.,5 days,between launch and event dates,4,astronauts aboard,2026-04-01,Launched,2026-04-06,Lunar encounter,2026-04-10,Returned to Earth,https://www.nasa.gov/mission/artemis-ii/,Mission history in English; NASA / agency source,https://science.nasa.gov/moon/missions/,View source catalogue ↗,https://science.nasa.gov/moon/missions/,"Carried four astronauts around the far side of the Moon, testing systems and workflows for future missions. Along the way, the Artemis II crew conducted a lunar observation campaign and contributed to a suite of biological & physical science experiments.",04/01/2026,2026-10-11,0,0,Not tracked; outcome is distinct from current operations,116,116,64,Artemis II,2026 · USA,United States · NASA,64,Artemis II,"People returned
+around the Moon","Four astronauts flew around the Moon
+and returned safely to Earth in April
+2026.",Test Orion with a crew during a lunar flyby.,"Four astronauts flew around the Moon and
+returned safely to Earth in April 2026.",between launch and event dates,astronauts aboard,58,5 days,58,4,1 Apr 2026,Launched,6 Apr 2026,Lunar encounter,10 Apr 2026,Returned to Earth,flyby,"Crewed flyby · schematic, not to scale","Artemis II
+Successful · 1 April 2026
+United States
+Crewed flyby
+Click to explore this mission."
